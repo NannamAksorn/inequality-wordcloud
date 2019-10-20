@@ -1,0 +1,78 @@
+The automation revolution has hit recruitment, with everything from facial expressions to vocal tone now analysed by algorithms and artificial intelligence. But what’s the cost to workforce diversity – and workers themselves?
+According to Nathan Mondragon, finding the right employee is all about looking at the little things. Tens of thousands of little things, as it turns out. Mondragon is the head psychologist at Hirevue, a company that offers software that screens job candidates using algorithms and artificial intelligence (AI). Hirevue’s flagship product, used by global giants such as Unilever and Goldman Sachs, asks candidates to answer standard interview questions in front of a camera. Meanwhile its software, like a team of hawk-eyed psychologists hiding behind a mirror, makes note of thousands of barely perceptible changes in posture, facial expression, vocal tone and word choice.
+
+“We break the answers people give down into many thousands of data points, into verbal and non-verbal cues,” says Mondragon. “If you’re answering a question about how you would spend a million dollars, your eyes would tend to shift upward, your verbal cues would go silent, or turn to ‘ums’ and ‘ahs’. Your head would tilt slightly upward with your eyes. The facial movement analytics would tell us you were going into a creative thinking style.”
+
+The program turns this data into a score, which is then compared against one the program has already “learned” from top-performing employees. The idea is that a good prospective employee looks a lot like a good current employee, just not in any way a human interviewer would notice.
+
+It sounds far fetched. Approaches like vocal analysis and reading “microexpressions” have previously been applied in policing and intelligence with little clear success. But Mondragon says their automated analyses line up favourably with established tests of personality and ability, and that customers report better employee performance and less turnover.
+
+ It’s a bit dehumanising, never being able to get through to an employer
+Robert, plumber
+Hirevue is just one of a slew of new companies selling AI as a replacement for the costly human side of hiring. Bath-based Cognisses specialises in games that predict various aptitudes (“personality is hard to gamify, but we’re working on it,” Boris Altemeyer, their head of technology, told me.) San Francisco’s Mya Systems offers a reactive, AI-powered chatbot that will conduct the entire interview process. Hirevue estimates the “pre-hire assessment” market is worth £2.14bn (US$3 billion) a year. According to Doug Rode, senior managing director at recruiter Michael Page, the past year has seen a marked increase in companies aggressively selling AI packages of widely variable quality.
+
+
+Get Society Weekly: our newsletter for public service professionals
+ Read more
+A study last year by the Chartered Institute of Personnel and Development found an average of 24 applicants for an average low wage job. Tesco, the UK’s largest private employer, received well over three million job applications in 2016. As the number of people applying for jobs has increased, employers have removed human beings from the hiring side whenever possible, automating more and more of the decisions in the process. This started over a decade ago with simple programs that scanned text CVs for keywords about education, skills and past employers in order to flag them for recruiters. It has expanded to include a bewildering range of quizzes, psychometric tests and custom built games that can be used to reject applicants before a human ever sees their application.
+
+This shift has already radically changed the way that many people interact with prospective employers. The standardised CV format allowed jobseekers to be evaluated by multiple firms with a single approach. Now jobseekers are forced to prepare for whatever format the company has chosen. The burden has been shifted from employer to jobseeker – a familiar feature of the gig economy era – and along with it the ability of jobseekers to get feedback or insight into the decision-making process. The role of human interaction in hiring has decreased, making an already difficult process deeply alienating.
+
+Beyond the often bewildering and dehumanising experience lurk the concerns that attend automation and AI, which draws on data that’s often been shaped by inequality. If you suspect you’ve been discriminated against by an algorithm, what recourse do you have? How prone are those formulas to bias, and how do the multitude of third-party companies that develop and license this software deal with the personal data of applicants? And is it inevitable that non-traditional or poorer candidates, or those who struggle with new technology, will be excluded from the process?
+
+Groceries are prepared for distribution at a Tesco distribution plant in Reading, England.
+FacebookTwitterPinterest Groceries are prepared for distribution at a Tesco distribution plant in Reading, England. The company received well over three million job applications in 2016. Photograph: Dan Kitwood/Getty Images
+“It’s all these artificial barriers, it makes people feel the hiring process is impenetrable,” says Heather Davies, a retired HR coordinator and one of the organisers of a Christians Against Poverty jobs club that meets weekly in a church hall in Muswell Hill, London. While there’s acceptance among attendees that increasing automation is inevitable (“it’s 2018 after all”), there’s real frustration at the hollowing out of human interaction.
+
+“It’s a bit dehumanising, never being able to get through to an employer,” says Robert, a plumber in his forties who uses job boards and recruiters to find temporary work. Harry, 24, has been searching for a job for four months. In retail, where he is looking, “just about every job” has some sort of test or game, anything from personality to maths, to screen out applicants. He completes four or five tests a week as jobs are posted. The rejections are often instant, although some service providers offer time-delay rejection emails, presumably to maintain the illusion that a person had spent time judging an application that had already failed an automated screen. The rejections pile up without ever signposting a different path. Every time you start again from zero.
+
+“It’s frustrating. You never know what you’ve done wrong; it leaves you feeling a bit trapped,” Harry says.
+
+ It’s a big barrier. Why is an older guy who is a bricklayer suddenly expected to have IT skills?
+Lynda Pennington, Croydon jobs club
+The problem is compounded amongst older jobseekers. Many rely on support from council or voluntary services to help them fill out applications or submit CV forms. “It’s a big barrier. Why is an older guy who is a bricklayer suddenly expected to have IT skills?” asks Lynda Pennington, who organises another jobs club in Croydon.
+
+Kirsty McHugh, head of the Employment Related Services Association (ERSA), which advocates for jobseekers, raises concerns about programs that “screen out non-traditional applications without thinking”. ERSA members wouldn’t encourage employers to use them, she added.
+
+Most of the data on unemployment in the UK ignores the vast ocean of people who have given up looking for work. The ONS says 8.7 million people aged 16 to 64 are “economically inactive”– not working and not seeking work. It’s impossible to predict how many people will be put off looking for a job by the new realities of the hiring process.
+
+Even amongst the groups where automated hiring is seen as the biggest success, there is some apprehension. Several professional recruiters told me that at every job level many candidates were put off by these systems, and that they failed to engage “passive but talented” applicants. A survey by the recruiter Allegis Global Solutions found that 58% of North American job applicants said they were comfortable interacting with an automated program – an ambiguous statistic widely interpreted as a green light.
+
+
+Rise of the racist robots – how AI is learning all our worst impulses
+ Read more
+Deborah Caldeira, a masters student at the London School of Economics, told me that after 86 unsuccessful job applications over the past two years – including several Hirevue screenings – she is thoroughly disillusioned with automated systems. She says that without a person across the table, there’s “no real conversation or exchange,” and it’s difficult to know “exactly what the robot is looking for”.
+
+Despite her excellent grades and extracurriculars, she was plagued by doubts that she didn’t look or sound like the ideal candidate, whose form was unknown to her. Sitting at home alone performing for a computer, she found herself questioning every movement.
+
+“It makes us less confident, and feel that we’re not worthwhile, as the company couldn’t even assign a person for a few minutes. The whole thing is becoming less human, which is concerning. What’s the limit for the use of automation when we are evaluating people?” she says.
+
+Q&A
+What is AI?
+Show
+An underground fightback of sorts against automation has emerged, as applicants search for ways to game the system. On web forums, students trade answers to employers’ tests and create fake applications to scope out their processes. A colleague relayed a story about a HR employee for a major technology company who recommended slipping the words “Oxford” or “Cambridge” into their CV in invisible white text, to pass the automated screening. I spoke with a jobs counsellor for high school students who has observed similar strategies.
+
+The apex of this practice is perhaps the Wales-based company Practice Aptitude Tests, which collates information from jobseekers and former employees about recruitment tests and sells practice versions, as well as tips and tricks for navigating them. Guy Thornton, the head of the company, claims the service has been used over three million times.
+
+It’s difficult to determine exactly how widespread the automation of hiring is, chiefly because companies aren’t keen to disclose how much automation they make use of. Several of the UK’s largest employers, including Sainsbury’s and Tesco, declined requests for interviews about their application process. Both Sainsbury’s and Tesco use a simple situational quiz to prescreen shop floor-level jobs.
+
+ People are getting more conscious about these systems and may take the right to contest decisions
+Sandra Wachter, Oxford Internet Institute
+But most large companies use some form of screening, according to reports from jobseekers and jobs counsellors. And Thornton says that over the past few years, small and medium businesses are increasingly adopting it.
+
+There are a variety of popular and legislative pushes to tip the balance of power back towards those seeking work, according to Christina Colclough, director of digitalisation and trade at UNI Global Union, which represents skills and services globally. Labour unions have been slow to respond to technological change, but UNI Global and others are working on a variety of workers digital rights charters governing automated and AI-based decisions, to be included in bargaining agreements.
+
+And an imminent update to the European Union General Data Protection Regulation (GDPR) will require a company to disclose whenever a decision that “significantly affects an individual” was automated. The applicant will also be entitled to contest the decision, or request human intervention.
+
+But the GDPR is not a catch-all, warns Sandra Wachter, a lawyer and research fellow in data ethics at the Oxford Internet Institute. Wachter notes that even minimal human involvement – approving a list of automatically ranked CVs, for instance – could exempt companies from the obligation of disclosing that they use automated systems and of enabling individuals to challenge the decision. She also says a much-discussed “right to explanation”, requiring a company to explain how a given automated decision was made, will not be legally binding.
+
+“Legislators find this difficult because these programs are very technical, highly complex and difficult to understand, even to the experts who build them. And their workings are often protected by copyright held by a company,” she says.
+
+Its significant that the GDPR specifically mentions recruiting as an area targeted for regulation. Its an acknowledgement of how comprehensively the field has changed. And it opens the door for jobseekers to take more power in the process. “People are getting more conscious about these systems and may take the right to contest decisions,” Wachter says.
+
+As the climate crisis escalates…
+… the Guardian will not stay quiet. This is our pledge: we will continue to give global heating, wildlife extinction and pollution the urgent attention and prominence they demand. The Guardian recognises the climate emergency as the defining issue of our times.
+
+Our independence means we are free to investigate and challenge inaction by those in power. We will inform our readers about threats to the environment based on scientific facts, not driven by commercial or political interests. And we have made several important changes to our style guide to ensure the language we use accurately reflects the environmental catastrophe.
+
+The Guardian believes that the problems we face on the climate crisis are systemic and that fundamental societal change is needed. We will keep reporting on the efforts of individuals and communities around the world who are fearlessly taking a stand for future generations and the preservation of human life on earth. We want their stories to inspire hope. We will also report back on our own progress as an organisation, as we take important steps to address our impact on the environment.

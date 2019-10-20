@@ -1,0 +1,6968 @@
+2136 al
+869 men
+678 The
+628 equal
+489 equality
+482 In
+466 inequality
+356 income
+344 age
+329 health
+289 education
+238 social
+235 care
+226 gender
+221 high
+220 economic
+182 male
+176 This
+170 women
+168 child
+157 rate
+156 population
+152 system
+145 student
+142 school
+141 iv
+138 nation
+138 time
+130 students
+126 individual
+123 access
+120 distribution
+119 man
+107 level
+107 As
+106 higher
+105 It
+100 political
+97 countries
+93 United States
+90 earn
+90 global
+90 job
+90 life
+88 data
+88 US
+88 For
+88 American
+87 sex
+87 fact
+86 educational
+85 So
+84 lack
+84 gap
+83 result
+83 report
+83 patient
+82 group
+82 individuals
+82 workers
+81 provide
+81 wealth
+80 top
+79 average
+79 number
+78 difference
+78 government
+77 ability
+77 led
+75 experience
+75 measure
+75 differ
+73 factor
+73 support
+73 rich
+72 study
+72 America
+71 males
+70 change
+70 based
+69 ill
+67 We
+67 legal
+67 But
+66 income inequality
+66 problem
+65 long
+65 ratio
+64 tax
+64 factors
+64 work
+64 patients
+63 There
+63 jobs
+62 discrimination
+62 healthcare
+61 grow
+60 receive
+60 power
+59 groups
+59 These
+58 An
+58 house
+57 person
+57 schools
+56 differences
+56 Gender
+56 Africa
+55 wage
+55 disparities
+54 term
+54 UK
+53 general
+53 nations
+52 rates
+52 poverty
+52 health care
+52 marriage
+51 grant
+50 economy
+50 pay
+50 white
+49 greater
+49 process
+49 levels
+49 great
+48 lead
+48 families
+48 compared
+48 However
+48 Theil
+47 systems
+47 national
+47 problems
+47 article
+47 Education
+46 States
+46 share
+46 needed
+46 worker
+46 score
+46 State
+45 gains
+45 They
+45 services
+45 And
+44 times
+44 type
+44 parents
+44 economic inequality
+44 face
+44 hold
+44 inequalities
+44 represent
+44 live
+44 law
+44 parent
+43 family
+43 While
+43 bottom
+43 issue
+43 ten
+42 improve
+42 capital
+42 African American
+42 Gini
+42 race
+42 gain
+41 types
+41 sexual
+41 side
+41 expect
+41 areas
+41 Europe
+40 minority
+40 play
+39 day
+39 equity
+39 advantage
+39 Health
+39 rank
+39 On
+39 impact
+39 resources
+38 institutions
+38 limit
+38 When
+38 wages
+38 rest
+38 girls
+38 medical
+38 developing
+38 success
+37 early
+37 case
+37 issues
+37 financial
+37 participation
+37 Inequality
+37 abortion
+37 people
+36 cultural
+36 populations
+36 test
+36 Latino
+35 He
+35 perform
+35 One
+35 major
+35 service
+35 die
+35 South
+35 treat
+35 trauma
+35 United
+34 market
+34 occupation
+34 members
+34 billion
+34 programs
+33 development
+33 rural
+33 continue
+33 member
+33 Main
+33 bias
+33 era
+33 area
+33 minor
+33 Hoover
+32 exist
+32 societies
+32 good
+32 environment
+32 economic growth
+32 skill
+32 middle
+32 LGB
+31 order
+31 measures
+31 addition
+31 affect
+31 labor
+31 ethnic
+31 violence
+31 According
+30 skills
+30 human
+30 growing
+30 generally
+30 rise
+30 survey
+30 Americans
+30 union
+30 LGBT
+29 Women
+29 Some
+29 living
+29 special
+29 disadvantage
+29 metric
+29 AI
+29 rights
+29 Economic
+29 mu
+28 At
+28 culture
+28 real
+28 Read
+28 reported
+28 life expectancy
+28 NHS
+28 call
+28 city
+28 incomes
+28 focus
+27 turn
+27 evidence
+27 total
+27 relative
+27 With
+27 If
+27 Global
+27 experienced
+27 racial
+27 plays
+27 money
+27 India
+27 argue
+27 Mr
+27 reduce
+27 provider
+26 employers
+26 current
+26 barriers
+26 mortality
+26 studies
+26 risk
+26 No
+25 policies
+25 opportunities
+25 academic
+25 policy
+25 full
+25 negative
+25 employment
+25 Many
+25 potential
+25 lives
+25 point
+25 training
+25 How
+25 justice
+25 politics
+25 learn
+25 immigrant
+25 institution
+25 chil
+24 gender inequality
+24 developing countries
+24 specific
+24 wide
+24 conditions
+24 common
+24 candidate
+24 candidates
+24 reason
+24 That
+24 region
+24 action
+24 knowledge
+24 refer
+24 entropy
+24 actors
+23 making
+23 decade
+23 disparity
+23 disease
+23 See
+23 positive
+23 barrier
+23 unions
+23 tests
+23 England
+23 background
+23 key
+23 drop
+23 funding
+23 actor
+23 stereotype
+22 choice
+22 typically
+22 citizens
+22 mark
+22 limited
+22 English
+22 adult
+22 socioeconomic
+22 income distribution
+22 strong
+22 prevent
+22 Social
+22 feel
+22 traditional
+22 suggests
+22 To
+22 assets
+22 segregation
+21 GDP
+21 terms
+21 ages
+21 minorities
+21 leads
+21 period
+21 cases
+21 Asia
+21 enter
+21 Sweden
+21 primary
+21 Of
+21 position
+21 What
+21 lot
+21 ways
+21 Photograph
+21 May
+21 insurance
+21 married
+21 personal
+21 Korea
+21 China
+21 median
+21 urban
+21 mental
+21 stereotypes
+21 parity
+20 Even
+20 kind
+20 direct
+20 performance
+20 professional
+20 regions
+20 People
+20 list
+20 learning
+20 career
+20 proper
+19 fundamental
+19 concentration
+19 represented
+19 social class
+19 called
+19 Gini coefficient
+19 percent
+19 idea
+19 technology
+19 format
+19 OECD
+19 published
+19 scores
+19 South Africa
+19 add
+19 occupations
+19 Melbourne
+19 count
+19 providers
+18 measured
+18 control
+18 More
+18 faced
+18 social inequality
+18 employer
+18 decline
+18 head
+18 middle class
+18 reduced
+18 social status
+18 developed
+18 international
+18 basis
+18 develop
+18 girl
+18 film
+18 earnings
+18 function
+18 metrics
+17 rising
+17 scale
+17 distributed
+17 move
+17 transgender
+17 ranked
+17 relation
+17 range
+17 Although
+17 net
+17 decades
+17 African Americans
+17 start
+17 big
+17 received
+17 She
+17 company
+17 proportion
+17 fall
+17 Hispanic
+17 close
+17 Ireland
+17 Income
+17 percentile
+17 spite
+17 base
+17 efficient
+17 cent
+17 boys
+17 arts
+16 seek
+16 human rights
+16 expectations
+16 By
+16 late
+16 physical
+16 Political
+16 Canada
+16 collective
+16 ethnicity
+16 Countries
+16 combined
+16 instance
+16 aged
+16 local
+16 application
+16 size
+16 centre
+16 black
+16 nurses
+16 win
+16 Law
+16 European
+16 contrast
+16 higher education
+16 aid
+16 liberal
+16 read
+16 depend
+16 communication
+16 White
+16 gifted
+16 dren
+15 compare
+15 claim
+15 highly
+15 Further
+15 values
+15 youth
+15 processes
+15 actions
+15 generation
+15 identified
+15 food
+15 defined
+15 majority
+15 neighborhood
+15 theory
+15 opportunity
+15 subject
+15 London
+15 table
+15 University
+15 welfare
+15 statistics
+15 emerge
+15 talk
+15 speak
+15 presented
+15 child marriage
+15 pose
+15 experiences
+15 reducing
+15 Index
+15 invest
+15 Research
+15 Latinos
+15 participation inequality
+14 protection
+14 future
+14 economically
+14 linked
+14 positions
+14 maximum
+14 variables
+14 identify
+14 solution
+14 Gender inequality
+14 private
+14 costs
+14 location
+14 disadvantaged
+14 Since
+14 progress
+14 started
+14 inform
+14 clear
+14 Development
+14 screen
+14 gender gap
+14 wage gap
+14 developed countries
+14 event
+14 aware
+14 extent
+14 leave
+14 protect
+14 reach
+14 protest
+14 aspects
+14 trained
+14 strike
+14 South Korea
+14 suffer
+14 Oxfam
+14 serve
+14 stems
+14 gene
+14 gender role
+14 educational inequality
+14 van
+13 structural
+13 stratification
+13 investment
+13 Denmark
+13 residents
+13 sat
+13 socioeconomic status
+13 Over
+13 context
+13 office
+13 doctors
+13 health equity
+13 modern
+13 prior
+13 Other
+13 classes
+13 improved
+13 advanced
+13 privilege
+13 language
+13 week
+13 changed
+13 story
+13 stay
+13 automated
+13 bargaining
+13 program
+13 National
+13 Haider
+13 simply
+13 biases
+13 rid
+13 prison
+13 All
+13 election
+13 respect
+13 Park
+13 industry
+13 Another
+13 New York
+13 core
+13 child support
+13 Dahl
+12 freedom
+12 sum
+12 author
+12 historically
+12 product
+12 globally
+12 expected
+12 belief
+12 treated
+12 basic
+12 professionals
+12 century
+12 intelligence
+12 born
+12 awareness
+12 history
+12 organization
+12 gender identity
+12 reduction
+12 raised
+12 simple
+12 wealth inequality
+12 production
+12 productivity
+12 determinant
+12 religion
+12 conscious
+12 Guardian
+12 Institute
+12 Our
+12 deal
+12 You
+12 fairness
+12 housework
+12 woman
+12 figures
+12 leading
+12 cancer
+12 France
+12 Last
+12 laws
+12 sign
+12 Johnson
+12 president
+12 reform
+12 Department
+12 sentence
+12 Image
+12 articles
+12 raise
+12 Black
+12 numbers
+12 taxation
+12 argued
+12 doctor
+12 weak
+12 bargain
+12 PPP
+12 perfect
+12 behaviors
+12 flu
+12 rural areas
+12 physician
+12 grade
+12 educational system
+12 exam
+12 citation
+11 beliefs
+11 produce
+11 victims
+11 correlation
+11 structure
+11 cultures
+11 determine
+11 coverage
+11 decile
+11 drug
+11 extreme
+11 goods
+11 vary
+11 successful
+11 hit
+11 differently
+11 reduces
+11 tool
+11 quintile
+11 governments
+11 compensation
+11 substantial
+11 trust
+11 chances
+11 single
+11 rely
+11 annual
+11 mobility
+11 path
+11 director
+11 School
+11 ensure
+11 Despite
+11 front
+11 Im
+11 cuts
+11 short
+11 coming
+11 Chicago
+11 facilities
+11 hospital
+11 assess
+11 ranking
+11 ranks
+11 Rule
+11 Justice
+11 estimated
+11 functions
+11 Belfast
+11 argument
+11 Not
+11 salaries
+11 behavior
+11 Korean
+11 taxes
+11 income earners
+11 salary
+11 risen
+11 wealth distribution
+11 increasing
+11 democratic
+11 gender roles
+11 environmental
+11 condition
+11 masculine
+11 LGA
+11 bus
+11 dimension
+11 actual
+11 parts
+11 Poor
+11 neighborhoods
+11 mate
+10 address
+10 domestic
+10 absolute
+10 corporate
+10 shape
+10 preference
+10 accessing
+10 fundamental rights
+10 interventions
+10 Because
+10 health insurance
+10 leaders
+10 marginal
+10 equally
+10 impacts
+10 reading
+10 labour
+10 consequences
+10 sexual orientation
+10 variety
+10 socially
+10 broadly
+10 land
+10 phenomenon
+10 labor market
+10 economies
+10 housing
+10 forced
+10 occupational
+10 upper
+10 natural
+10 receiving
+10 adequate
+10 global inequality
+10 complex
+10 reports
+10 grades
+10 Why
+10 screening
+10 interact
+10 claims
+10 applications
+10 emergency
+10 attention
+10 popular
+10 link
+10 CEO
+10 childcare
+10 loss
+10 consumption
+10 attributed
+10 mental health
+10 conducted
+10 surgeon
+10 demographic
+10 regular
+10 corruption
+10 independent
+10 legal aid
+10 travel
+10 additional
+10 fair
+10 peer
+10 post
+10 continues
+10 Kim
+10 spoon
+10 inequity
+10 desire
+10 divided
+10 percentiles
+10 dollar
+10 adults
+10 couples
+10 Studies
+10 citizen
+10 graph
+10 homes
+10 biased
+10 Lack
+10 lies
+10 coefficient
+10 redundancy
+10 medicine
+10 Sudan
+9 meaning
+9 hard
+9 imply
+9 cost
+9 gendered
+9 series
+9 raises
+9 involved
+9 Racial
+9 Most
+9 official
+9 fiscal
+9 responsibility
+9 stratified
+9 worldwide
+9 persons
+9 privileged
+9 choices
+9 sector
+9 organizations
+9 cited
+9 citizenship
+9 falls
+9 grew
+9 social mobility
+9 education system
+9 egalitarian
+9 ratios
+9 allocation
+9 qualified
+9 gaps
+9 health inequalities
+9 Germany
+9 United Kingdom
+9 educated
+9 refers
+9 Japan
+9 feeling
+9 automation
+9 hiring
+9 driven
+9 conversation
+9 removed
+9 believes
+9 worst
+9 conduct
+9 digital
+9 standard
+9 gender equality
+9 working
+9 mortality rates
+9 varies
+9 narrow
+9 improvement
+9 revealed
+9 professor
+9 genders
+9 remove
+9 recorded
+9 believed
+9 insured
+9 trauma care
+9 marry
+9 presence
+9 mum
+9 introduced
+9 abuse
+9 dropped
+9 Cambodia
+9 elections
+9 corrupt
+9 secure
+9 Nordic
+9 referendum
+9 separate
+9 advice
+9 Act
+9 produced
+9 strikes
+9 advantages
+9 Parks
+9 Children
+9 aggregate
+9 price
+9 distributions
+9 October
+9 capitalism
+9 fear
+9 social capital
+9 existing
+9 standards
+9 B Lab
+9 model
+9 advocacy
+9 translation
+9 ethnic minorities
+9 French
+9 tax law
+9 respective
+9 stochastic
+9 compute
+9 segment
+9 International
+9 secondary
+9 maternal
+9 health disparities
+9 standardized
+9 whites
+9 chance
+9 grants
+9 serving
+9 GPE
+9 political participation
+9 Albania
+8 dependent
+8 Minority
+8 today
+8 holds
+8 elite
+8 feminine
+8 feature
+8 Such
+8 dangerous
+8 distribute
+8 depends
+8 referred
+8 national income
+8 desirable
+8 returns
+8 limits
+8 regional
+8 suggested
+8 owns
+8 masculinity
+8 Age
+8 divide
+8 Western
+8 interaction
+8 abilities
+8 owned
+8 Credit Suisse
+8 literacy
+8 enjoy
+8 billionaires
+8 origin
+8 Medicare
+8 closing
+8 institutional
+8 prestige
+8 personality
+8 verbal
+8 newsletter
+8 Images
+8 failed
+8 multiple
+8 estimates
+8 slow
+8 performing
+8 engage
+8 club
+8 interview
+8 excluded
+8 maintain
+8 unemployment
+8 dollars
+8 stronger
+8 Marriott
+8 authors
+8 stress
+8 powerful
+8 public policy
+8 Wales
+8 faster
+8 Female
+8 caused
+8 Male
+8 strain
+8 Florida
+8 injuries
+8 Do
+8 pain
+8 likelihood
+8 commonly
+8 centres
+8 continued
+8 politicians
+8 met
+8 pregnancy
+8 helped
+8 My
+8 happened
+8 Reiss
+8 exceptions
+8 fast
+8 Duterte
+8 Latin America
+8 complete
+8 Swedish
+8 Poland
+8 crime
+8 careers
+8 Grenada
+8 peers
+8 turnout
+8 friends
+8 sentences
+8 harassment
+8 record
+8 reached
+8 Teachers
+8 hire
+8 attending
+8 dirt
+8 Parasite
+8 economist
+8 return
+8 Effects
+8 Brazil
+8 beneficiaries
+8 essentially
+8 democracies
+8 Tax
+8 collective bargaining
+8 cities
+8 reinforce
+8 training data
+8 decide
+8 data set
+8 resident
+8 plan
+8 spatial
+8 earned
+8 tax laws
+8 immigrants
+8 covered
+8 computed
+8 resource distribution
+8 High
+8 physicians
+8 dies
+8 mortality rate
+8 health disparity
+8 migration
+8 Educational
+8 educate
+8 compete
+8 expectation
+8 Participation
+8 posts
+7 Sex
+7 USD
+7 target
+7 ascribed
+7 located
+7 daily
+7 paths
+7 demonstrate
+7 capitalist
+7 universal
+7 Inequalities
+7 reporting
+7 scholars
+7 politically
+7 notion
+7 sexuality
+7 varied
+7 sharing
+7 connection
+7 indicator
+7 sphere
+7 workforce
+7 tools
+7 selected
+7 disadvantages
+7 Access
+7 determinants
+7 industrialized
+7 political institutions
+7 elderly
+7 Income inequality
+7 First
+7 comparing
+7 Once
+7 income gap
+7 generations
+7 parental
+7 frequently
+7 exists
+7 lines
+7 ideas
+7 sexism
+7 political systems
+7 security
+7 prevalent
+7 recruitment
+7 activities
+7 couple
+7 hierarchical
+7 biological
+7 traditionally
+7 ethnic group
+7 variation
+7 widening
+7 Within
+7 markets
+7 ongoing
+7 horizontal
+7 lifestyle
+7 ideologies
+7 artificial
+7 representation
+7 points
+7 privileges
+7 evaluated
+7 Oxford
+7 Davies
+7 climate
+7 regulation
+7 Labour
+7 seeking
+7 automatically
+7 evaluating
+7 update
+7 promotion
+7 labour market
+7 Mayhew
+7 lived
+7 sexes
+7 felt
+7 deliver
+7 survival
+7 protests
+7 perception
+7 calculate
+7 survive
+7 backgrounds
+7 prohibited
+7 trauma centre
+7 focusing
+7 Metcalfe
+7 Democrat
+7 helps
+7 happen
+7 Instead
+7 marrying
+7 mother
+7 minimum wage
+7 pushing
+7 scandal
+7 Congo
+7 figure
+7 open government
+7 Philippines
+7 Venezuela
+7 surveyed
+7 Will
+7 Project
+7 sharp
+7 Afghanistan
+7 Finland
+7 reveals
+7 criminal justice
+7 officials
+7 Nepal
+7 exceed
+7 tackle
+7 The US
+7 implications
+7 holding
+7 Northern
+7 Times
+7 moral
+7 parties
+7 physically
+7 consistent
+7 teachers
+7 Subscribe
+7 employed
+7 profits
+7 districts
+7 The New York Times
+7 walk
+7 eat
+7 Gap
+7 graduate
+7 reference
+7 progressive tax
+7 valued
+7 stated
+7 trillion
+7 generate
+7 Where
+7 Western Europe
+7 liberalism
+7 skilled
+7 debt
+7 preferred
+7 New
+7 tech
+7 shareholder
+7 Trump
+7 reflect
+7 broad
+7 central
+7 Hollywood
+7 technologies
+7 numeracy
+7 Author
+7 transport
+7 employment discrimination
+7 color
+7 import
+7 participants
+7 IQ
+7 systematic
+7 country
+7 Poverty
+7 political system
+7 material
+7 Causes
+7 verge
+7 controlled
+7 disorder
+7 secondary education
+7 Due
+7 indigenous
+7 identifying
+7 slave
+7 decision
+7 Females
+7 math
+7 mathematics
+7 dimensions
+7 evaluate
+7 dominated
+7 midwives
+6 Social inequality
+6 younger
+6 marginalized
+6 disproportionate
+6 entering
+6 marginalization
+6 concept
+6 evident
+6 responsibilities
+6 Discrimination
+6 After
+6 implemented
+6 United Nations
+6 peak
+6 supported
+6 oppression
+6 World War II
+6 classified
+6 distances
+6 hierarchies
+6 falling
+6 Overall
+6 studied
+6 government spending
+6 Health equity
+6 vulnerable
+6 links
+6 advance
+6 stable
+6 inevitable
+6 movement
+6 account
+6 determining
+6 North America
+6 accumulation
+6 environments
+6 social classes
+6 eliminate
+6 Young
+6 Meritocracy
+6 cast
+6 institutionalized
+6 Structural
+6 Members
+6 systemic
+6 public health
+6 stability
+6 chief
+6 objective
+6 economics
+6 Contents
+6 competition
+6 productive
+6 capacity
+6 organized
+6 observed
+6 stories
+6 predict
+6 bit
+6 CV
+6 discriminated
+6 independence
+6 recruiter
+6 public service
+6 computer
+6 Economics
+6 game
+6 ideal
+6 Tesco
+6 Weekly
+6 reflects
+6 Centre
+6 household chores
+6 stuck
+6 running
+6 The UK
+6 tackling
+6 good health
+6 changing
+6 supply
+6 modified
+6 heart disease
+6 improving
+6 night
+6 complications
+6 relating
+6 paper
+6 nutrition
+6 tied
+6 Medicine
+6 preventing
+6 uninsured
+6 suffered
+6 writing
+6 controlling
+6 ban
+6 representative
+6 risks
+6 raising
+6 Turkey
+6 critical
+6 accused
+6 capture
+6 Ghana
+6 Scandinavia
+6 declines
+6 populism
+6 active
+6 spot
+6 Norway
+6 rooted
+6 protesters
+6 Democratic Republic
+6 aims
+6 summer
+6 Northern Ireland
+6 Abortion
+6 Room
+6 supporting
+6 Irish
+6 Brexit
+6 Marie Stopes
+6 Rebellion
+6 light
+6 ended
+6 feminist
+6 perceptions
+6 debate
+6 suffering
+6 respondents
+6 mental illness
+6 released
+6 During
+6 deeper
+6 UP
+6 organize
+6 widen
+6 films
+6 Snowpiercer
+6 composed
+6 join
+6 Cho
+6 spoons
+6 Burning
+6 Kims
+6 tale
+6 South Korean
+6 inherited
+6 strategy
+6 Labor
+6 economists
+6 financial assets
+6 mitigate
+6 Policy
+6 Economist
+6 stock
+6 arguments
+6 reasons
+6 social justice
+6 public
+6 infrastructure
+6 Aid
+6 taxed
+6 reflecting
+6 attribute
+6 cut
+6 social cohesion
+6 Gilbert
+6 Coen
+6 Ruby
+6 solutions
+6 savior
+6 Facebook
+6 car
+6 kinds
+6 democracy
+6 step
+6 promoting
+6 responsible
+6 Australia
+6 deep
+6 reality
+6 ont
+6 write
+6 effects
+6 human capital
+6 population growth
+6 suburban
+6 LGAs
+6 married couple
+6 computation
+6 inflation
+6 E2
+6 communicate
+6 measurement
+6 E3
+6 E4
+6 E1
+6 planned
+6 segments
+6 North
+6 Thus
+6 World Economic Forum
+6 industrialize
+6 public education
+6 speaking
+6 Individuals
+6 Race
+6 interpreter
+6 wards
+6 incentives
+6 visit
+6 The United States
+6 American Indian
+6 Students
+6 implement
+6 standardized test
+6 courses
+6 dropout
+6 employ
+6 fail
+6 gender wage gap
+6 glass ceiling
+6 trait
+6 dress
+6 nominated
+6 chores
+6 voting behavior
+6 dolls
+6 voter turnout
+6 inclusiveness
+6 Robert Dahl
+6 vacancies
+6 March
+5 billions
+5 belonging
+5 Social Security
+5 cutting
+5 Health inequalities
+5 Indonesia
+5 identical
+5 patterns
+5 economic development
+5 governmental
+5 express
+5 reaching
+5 duration
+5 permanent
+5 numerous
+5 limitations
+5 management
+5 decision making
+5 impacted
+5 Scholars
+5 organizing
+5 equitable
+5 possession
+5 oriented
+5 defining
+5 wealth concentration
+5 attitudes
+5 Chinese
+5 administrative
+5 norms
+5 scope
+5 West
+5 Under
+5 Investment
+5 References
+5 tens
+5 constant
+5 advanced economies
+5 drugs
+5 fell
+5 sample
+5 initiatives
+5 beneficial
+5 actively
+5 Transgender
+5 social role
+5 maintaining
+5 illegal
+5 traits
+5 Cultural
+5 ethnic inequality
+5 structures
+5 qualifications
+5 Economic growth
+5 emerging
+5 tight
+5 completely
+5 manner
+5 vertical
+5 Social mobility
+5 incarceration
+5 heterosexual
+5 wear
+5 allocating
+5 upper class
+5 climate crisis
+5 text
+5 experts
+5 scientific
+5 weekly
+5 The Guardian
+5 facts
+5 gig economy
+5 statistic
+5 plant
+5 involvement
+5 steps
+5 team
+5 barely
+5 assessment
+5 eyes
+5 technical
+5 fellow
+5 impossible
+5 accurately
+5 answer
+5 represents
+5 Now
+5 convergence
+5 surveys
+5 senior
+5 guilt
+5 Sign
+5 guide
+5 large numbers
+5 paradox
+5 fallen
+5 averages
+5 smoke
+5 GMT
+5 peaked
+5 existence
+5 extremely
+5 letter
+5 trauma centres
+5 judgment
+5 years
+5 closed
+5 concepts
+5 operation
+5 vital
+5 deciding
+5 dying
+5 obvious
+5 surgeons
+5 adds
+5 exception
+5 politician
+5 judge
+5 heal
+5 decided
+5 battle
+5 cover
+5 recalls
+5 strict
+5 Russia
+5 Nigeria
+5 starting
+5 retreat
+5 court
+5 Eastern Europe
+5 President
+5 shame
+5 closer
+5 Activists
+5 constitution
+5 records
+5 pressure
+5 barred
+5 prominent
+5 Caribbean
+5 electoral
+5 Rodrigo Duterte
+5 legislature
+5 responses
+5 Jose
+5 weighted
+5 ordinary
+5 expression
+5 procedures
+5 critic
+5 forces
+5 constraints
+5 Rodrigo
+5 alternative
+5 push
+5 adding
+5 sides
+5 McCarthy
+5 young women
+5 promise
+5 rape
+5 won
+5 moved
+5 personal experience
+5 kids
+5 expressed
+5 mind
+5 creation
+5 In October
+5 events
+5 Often
+5 Fitzpatrick
+5 loan
+5 urban areas
+5 anxiety
+5 lost
+5 satisfied
+5 technological
+5 Donald Trump
+5 Arizona
+5 Thursday
+5 denied
+5 starts
+5 Republican
+5 recession
+5 Workers
+5 Are
+5 element
+5 teenage
+5 Koreans
+5 gold
+5 open
+5 Bong
+5 heart
+5 train
+5 apparent
+5 subjects
+5 Wealth concentration
+5 solve
+5 June
+5 participate
+5 paying
+5 possess
+5 British
+5 obesity
+5 consequence
+5 Median
+5 focused
+5 boost
+5 Census
+5 Industrial Revolution
+5 January
+5 literature
+5 concentrations
+5 Economic inequality
+5 perspectives
+5 Rawls
+5 developing nations
+5 List
+5 acquire
+5 declining
+5 Kuznets
+5 prices
+5 equilibrium
+5 Bart
+5 shareholders
+5 rose
+5 inclusive
+5 enterprise
+5 playing
+5 scarcity
+5 straight
+5 diagnosis
+5 moment
+5 regulate
+5 democratically
+5 shares
+5 rises
+5 complexity
+5 models
+5 Only
+5 television
+5 Unions
+5 industries
+5 negotiate
+5 ultimate
+5 aggressive
+5 focuses
+5 skewed
+5 sets
+5 data sets
+5 pronoun
+5 est
+5 unbiased
+5 pairs
+5 social protection
+5 Study
+5 schooling
+5 comprehensive
+5 distance
+5 Differences
+5 determined
+5 public transport
+5 discriminate
+5 married couples
+5 tax reform
+5 penalty
+5 MeToo
+5 monetary
+5 A4
+5 quintiles
+5 Palma ratio
+5 consist
+5 allocate
+5 Both
+5 Here
+5 A3
+5 A1
+5 serves
+5 curve
+5 richer
+5 Individual
+5 popularity
+5 A2
+5 distributional
+5 vice
+5 indices
+5 Galt
+5 income inequality metrics
+5 clean water
+5 magnitude
+5 evolution
+5 water
+5 James
+5 Millennium
+5 medications
+5 segregated
+5 Rural
+5 reproductive
+5 affordable
+5 native
+5 complicated
+5 FGM
+5 criminal
+5 motivation
+5 blacks
+5 racial groups
+5 morbidity
+5 Nations
+5 health care providers
+5 childbirth
+5 Health disparities
+5 limited English proficient
+5 spoken
+5 female genital mutilation
+5 EBM
+5 Asian
+5 child care
+5 graduation
+5 Whites
+5 Bangladesh
+5 equal education
+5 Federal
+5 nomination
+5 helping
+5 consists
+5 commitment
+5 acting
+5 Partnership
+5 Family
+5 Assessment
+5 American Indians
+5 property taxes
+5 standardized tests
+5 applicant
+5 Gender inequalities
+5 Gender stereotypes
+5 competent
+5 Gender roles
+5 stem
+5 combat
+5 oppose
+5 programme
+5 select
+5 genital
+5 Global Gender Gap Report
+5 rated
+5 responsive
+5 advertised
+4 authority
+4 topic
+4 universal health care
+4 sustain
+4 social roles
+4 Every
+4 quarter
+4 sort
+4 restaurant
+4 elites
+4 chosen
+4 wake
+4 repression
+4 ladder
+4 judicial system
+4 International inequality
+4 combine
+4 Social class
+4 supportive
+4 ideology
+4 enabling
+4 availability
+4 bodies
+4 free market
+4 assimilation
+4 agricultural
+4 expressions
+4 assert
+4 Health care
+4 functioning
+4 labour force
+4 stereotyping
+4 hospitality
+4 transportation
+4 wives
+4 SES
+4 feed
+4 tribal
+4 Millennium Development Goals
+4 calling
+4 sell
+4 calls
+4 races
+4 arising
+4 influential
+4 sociologist
+4 Relative
+4 entered
+4 stations
+4 classify
+4 socially constructed
+4 mechanism
+4 promote
+4 intensive
+4 Today
+4 professions
+4 working class
+4 work experience
+4 implies
+4 ascribed status
+4 classic
+4 Colorado
+4 incentive
+4 constructed
+4 Two
+4 meritocracy
+4 income equality
+4 probability
+4 grows
+4 periods
+4 innovation
+4 social stratification
+4 contexts
+4 problematic
+4 femininity
+4 combination
+4 homosexuality
+4 Class
+4 assumption
+4 food deserts
+4 mired
+4 promotions
+4 sound
+4 External
+4 bad
+4 Western societies
+4 robots
+4 prominence
+4 Services
+4 fake
+4 pollution
+4 job applications
+4 algorithm
+4 frustration
+4 sounds
+4 acceptance
+4 flag
+4 familiar
+4 GDPR
+4 disclose
+4 respond
+4 masters
+4 guy
+4 contest
+4 software
+4 medium
+4 customers
+4 feedback
+4 replacement
+4 emerged
+4 boards
+4 sorts
+4 hope
+4 quiet
+4 vocal
+4 suddenly
+4 turns
+4 selling
+4 aggressively
+4 multitude
+4 balance
+4 recruiters
+4 exchange
+4 facial
+4 strategies
+4 confident
+4 leaves
+4 progression
+4 secret
+4 double
+4 clean
+4 psychology
+4 identity
+4 Illustration
+4 mens
+4 happening
+4 hang
+4 days
+4 caring
+4 culturally
+4 The difference
+4 statistically
+4 alcohol
+4 Comments
+4 Statistics
+4 cigarette
+4 Life expectancy
+4 instances
+4 heavy industry
+4 warned
+4 calculated
+4 exclude
+4 reverse
+4 projects
+4 toll
+4 Shares
+4 projected
+4 opposition
+4 discovered
+4 white people
+4 Professor
+4 striking
+4 hospitals
+4 investigating
+4 margins
+4 rankings
+4 match
+4 Trauma
+4 subjective
+4 automatic
+4 injury
+4 reveal
+4 compliance
+4 reflected
+4 legislators
+4 child brides
+4 word
+4 easy
+4 Working
+4 accept
+4 minimum marriage age
+4 Pollard
+4 Sherry
+4 father
+4 healthcare provider
+4 dead
+4 legally
+4 kill
+4 restrict
+4 courage
+4 dropping
+4 justification
+4 Liverpool
+4 local election
+4 The Philippines
+4 personalities
+4 Central African Republic
+4 guarantees
+4 gay marriage
+4 Somalia
+4 violent city
+4 affordability
+4 moving
+4 inspectors
+4 Gascon
+4 collapse
+4 surge
+4 World Justice Project
+4 civil society
+4 East Asia
+4 Caracas
+4 enrichment
+4 monitoring
+4 officers
+4 correctional system
+4 cash
+4 signs
+4 anger
+4 wave
+4 Iceland
+4 powers
+4 Joseph
+4 Botswana
+4 activity
+4 rapid
+4 mechanisms
+4 instability
+4 Healthcare
+4 atmosphere
+4 humiliated
+4 Galway
+4 negative reactions
+4 police
+4 music
+4 Life
+4 supports
+4 severe
+4 pill
+4 Survey
+4 abortions
+4 punish
+4 fatal
+4 played
+4 diaspora
+4 faith
+4 traumatic
+4 embrace
+4 foetal
+4 Isis
+4 pregnancies
+4 adverse
+4 ranging
+4 failing
+4 clients
+4 Law Centre
+4 save
+4 dealing
+4 Citizens Advice
+4 satisfaction
+4 legal advice
+4 gangs
+4 recognise
+4 legal aid scheme
+4 immigration
+4 wide range
+4 savings
+4 granted
+4 breakdown
+4 neighbours
+4 depression
+4 trusted
+4 continuous
+4 leverage
+4 insights
+4 temporary
+4 The Times
+4 austerity
+4 hot
+4 recovery
+4 factories
+4 hired
+4 bet
+4 delivered
+4 typical
+4 pull
+4 board
+4 Just Stop
+4 Rich People
+4 faces
+4 Agent
+4 pit
+4 Connection
+4 Superfast
+4 Choi
+4 references
+4 news
+4 California
+4 featuring
+4 Editors
+4 Problem
+4 credentials
+4 Lee
+4 postapocalyptic
+4 Nike
+4 Shoes
+4 lifestyles
+4 son
+4 Fentanyl
+4 Cracked
+4 gullible
+4 generated
+4 fortune
+4 persistent
+4 Technology
+4 Important
+4 reflective
+4 addressing
+4 Perspectives
+4 Better
+4 International Monetary Fund
+4 Monitor
+4 ranges
+4 intended
+4 Human Development Index
+4 Socialist
+4 US dollars
+4 Development Economics
+4 finance
+4 Conversely
+4 human population
+4 analysis
+4 Austria
+4 political power
+4 Thomas Piketty
+4 satisfy
+4 labor force
+4 Welfare
+4 formal education
+4 prefer
+4 entities
+4 investments
+4 agency
+4 delivering
+4 Progressive tax
+4 social safety net
+4 debts
+4 Various
+4 Globalization
+4 billionaire
+4 Psychology
+4 Share
+4 social welfare
+4 tax rate
+4 Income distribution
+4 Medicaid
+4 persistence
+4 desired
+4 transfer payments
+4 contrary
+4 concentrated
+4 Economic liberalism
+4 grandfather
+4 humans
+4 mad
+4 overcome
+4 profit
+4 grandparents
+4 benefit society
+4 certified
+4 B Corps
+4 original
+4 Neri
+4 Data
+4 ignore
+4 halo
+4 erosion
+4 racism
+4 Action
+4 regulated
+4 monopolies
+4 plutocrats
+4 generosity
+4 narrative
+4 Italy
+4 populist
+4 Fight
+4 discounted
+4 AP
+4 Unfortunately
+4 attracting
+4 body
+4 operating
+4 CEOs
+4 gained
+4 Wealth
+4 Recession
+4 shared
+4 Great Recession
+4 facilitate
+4 cluster
+4 European Commission
+4 pronouns
+4 unconscious
+4 addressed
+4 machine translation
+4 undermine
+4 provision
+4 cash transfers
+4 complement
+4 densities
+4 expenses
+4 open space
+4 congestion
+4 Victoria
+4 suburbs
+4 disability
+4 disabilities
+4 sexual harassment
+4 deduct
+4 penalties
+4 psychological
+4 D1
+4 World Bank
+4 yields
+4 Wage share
+4 absolute measure
+4 split
+4 Therefore
+4 D3
+4 subpopulation
+4 K1
+4 diagram
+4 broken
+4 closed system
+4 D4
+4 perfectly
+4 counted
+4 K2
+4 export
+4 K3
+4 open system
+4 Ratio
+4 deviation
+4 unit
+4 household income
+4 sorted
+4 equalization
+4 Alice
+4 losses
+4 fraction
+4 alleged
+4 maximum entropy
+4 Group
+4 D2
+4 Government
+4 demographics
+4 clothing
+4 southern
+4 encountered
+4 The government
+4 machines
+4 lands
+4 global poverty
+4 property rights
+4 pressures
+4 funds
+4 project
+4 Global Poverty Project
+4 Latin American
+4 medical treatment
+4 colonies
+4 Central America
+4 3 times
+4 communicating
+4 Provider
+4 Physicians
+4 Office
+4 SGM
+4 child mortality
+4 lesbian
+4 enhance
+4 death rate
+4 minority groups
+4 ramifications
+4 bisexual
+4 Aborigine
+4 CMS
+4 diseases
+4 hazards
+4 Evaluation
+4 homosexual
+4 smoking
+4 maternal health
+4 comparative
+4 financing
+4 Caucasian
+4 cardiovascular disease
+4 distress
+4 AIM
+4 cultural differences
+4 visits
+4 absence
+4 utilization
+4 Language
+4 Report
+4 toxic
+4 dust
+4 funded
+4 African nations
+4 locations
+4 categories
+4 Spatial
+4 MSM
+4 colon
+4 accountability
+4 Organization
+4 response
+4 caucasian
+4 murder
+4 educational attainment
+4 gifted education
+4 Achievement
+4 memory
+4 teens
+4 sensitive
+4 deliberate
+4 college degree
+4 centers
+4 educational systems
+4 proven
+4 faculty
+4 benchmark
+4 segregate
+4 isolated
+4 reside
+4 SAT
+4 NGO
+4 sensitivity
+4 Males
+4 expensive
+4 reliable
+4 New York City
+4 sizes
+4 daycare
+4 brain drain
+4 efficacy
+4 Special education
+4 Educational inequality
+4 assist
+4 school districts
+4 upazilas
+4 educational institution
+4 Researchers
+4 public school
+4 ICT
+4 Sexism
+4 commit
+4 gender differences
+4 adaption
+4 signed
+4 Academy Awards
+4 inheritance
+4 opposed
+4 initiative
+4 extra
+4 safety
+4 gender norms
+4 electoral politics
+4 Biological
+4 Millennium Development Goal
+4 Natural
+4 ODI
+4 cloth
+4 hormone
+4 guaranteed
+4 nursing
+4 NHS Digital
+4 Royal College
+4 therapists
+3 prejudice
+3 moves
+3 openness
+3 civic
+3 initial
+3 feminism
+3 natural resources
+3 Egalitarian
+3 dividing
+3 dystopian
+3 producing
+3 interpreted
+3 valuation
+3 Max Weber
+3 climb
+3 consumed
+3 transfer
+3 ideological
+3 inferior
+3 social equality
+3 anticipated
+3 leveling
+3 elements
+3 expense
+3 time period
+3 Indeed
+3 cooperation
+3 Sometimes
+3 protected
+3 marginalized groups
+3 hierarchy
+3 marijuana
+3 describe
+3 shaped
+3 Piketty
+3 Others
+3 ageism
+3 exact
+3 essay
+3 gender analysis
+3 lawyers
+3 class system
+3 universal access
+3 coined
+3 banking
+3 differential
+3 financial crisis
+3 kinship
+3 bottom 10
+3 legalized
+3 insurance companies
+3 produces
+3 justify
+3 geographical
+3 Social stratification
+3 entrenched
+3 developed economies
+3 tiny
+3 formal
+3 confined
+3 dealt
+3 neoliberalism
+3 Socioeconomic status
+3 strata
+3 emergency rooms
+3 convicted
+3 definitions
+3 orders
+3 seat
+3 grouped
+3 revenue
+3 impose
+3 Recent
+3 options
+3 childhood obesity
+3 fresh
+3 quantitative variables
+3 Food
+3 consumer
+3 Those
+3 continuum
+3 wellbeing
+3 The major
+3 existed
+3 Patterns
+3 superior
+3 social order
+3 epidemic
+3 aspect
+3 fortunate
+3 economic liberalism
+3 chieftain
+3 Country
+3 identities
+3 Forbes
+3 resultant
+3 contrasting
+3 hypothesis
+3 Overview
+3 associates
+3 claimed
+3 rampant
+3 encounter
+3 quantity
+3 ascribed characteristics
+3 Gini coefficients
+3 Trans
+3 adultism
+3 industrialized nations
+3 patriarchal
+3 high level
+3 conform
+3 Age discrimination
+3 caste system
+3 privatized
+3 coupled
+3 implementation
+3 gender variant
+3 synonymous
+3 perspective
+3 marks
+3 individualism
+3 spheres
+3 neoliberal
+3 Greece
+3 variability
+3 correlated
+3 Wealth inequality
+3 engineers
+3 balances
+3 junior
+3 completing
+3 freedoms
+3 treating
+3 eliminated
+3 differentiation
+3 governing
+3 extinction
+3 Sandra
+3 HR
+3 preservation
+3 psychologists
+3 heating
+3 legislative
+3 request
+3 learned
+3 wrong
+3 costly
+3 UNI
+3 commercial
+3 keen
+3 minimal
+3 ERSA
+3 comfortable
+3 disclosing
+3 wildlife
+3 psychologist
+3 algorithms
+3 facial expression
+3 style guide
+3 turnover
+3 Pennington
+3 human beings
+3 Lynda
+3 ums
+3 games
+3 Thornton
+3 tone
+3 Reading
+3 excellent
+3 cues
+3 plumber
+3 revolution
+3 prospective
+3 technological change
+3 quiz
+3 defining issue
+3 retail
+3 asks
+3 spoke
+3 Croydon
+3 silent
+3 illusion
+3 artificial intelligence
+3 IT
+3 versions
+3 Internet
+3 invisible
+3 recruiting
+3 alienating
+3 Association
+3 readers
+3 CVs
+3 expanded
+3 entitled
+3 European Union
+3 lawyer
+3 robot
+3 suspect
+3 The idea
+3 bricklayer
+3 Christina
+3 urgent
+3 investigate
+3 counsellor
+3 warns
+3 earth
+3 declined
+3 passive
+3 recognises
+3 Employment
+3 hiding
+3 environmental catastrophe
+3 trapped
+3 intervention
+3 answers
+3 inspire
+3 Am
+3 Prof
+3 And I
+3 archaic
+3 Time
+3 generates
+3 Holly
+3 Thomas
+3 physical health
+3 partial
+3 constantly
+3 commitments
+3 work hours
+3 US economy
+3 Notes
+3 Quick
+3 shake
+3 feels
+3 fair share
+3 impacting
+3 network
+3 Heritage
+3 weight
+3 Financial Times
+3 working hours
+3 load
+3 punishment
+3 daily average
+3 working paper
+3 Imperial College
+3 social care
+3 tobacco
+3 narrowing
+3 ageing population
+3 wars
+3 Early
+3 narrows
+3 miners
+3 academics
+3 improvements
+3 Cass
+3 Les
+3 Britain
+3 dying young
+3 peaking
+3 pensions
+3 PwC
+3 cigarettes
+3 Austerity
+3 performed
+3 ethnic minority
+3 Harvard University
+3 causing
+3 traumatic injuries
+3 saved
+3 clinicians
+3 Miami
+3 town
+3 paperwork
+3 collected
+3 clothes
+3 attracted
+3 projections
+3 emergency care
+3 predicting
+3 associations
+3 emergency department
+3 Patients
+3 outrage
+3 penetrative
+3 driving
+3 severity
+3 picked
+3 Bias
+3 tolerate
+3 preferences
+3 accepted
+3 abundance
+3 trauma surgeon
+3 permission
+3 truth
+3 attended
+3 marriage certificate
+3 handcuffs
+3 Apart
+3 Girl Scout
+3 At Last
+3 senator
+3 husband
+3 creative writing
+3 escape
+3 amended
+3 hidden
+3 damaged
+3 victim
+3 teenager
+3 senate
+3 acted
+3 raped
+3 diabetes
+3 subsequently
+3 Almost
+3 consent
+3 Her
+3 peaceful
+3 judiciary
+3 Polish
+3 scored
+3 supreme
+3 enforcement
+3 Vietnam
+3 surprise
+3 election campaign
+3 caricature
+3 Jan
+3 Martin
+3 murders
+3 Thailand
+3 performer
+3 prisons
+3 integrity
+3 performers
+3 dinosaur
+3 interest groups
+3 armed
+3 Islamic
+3 Rwanda
+3 scoring
+3 Corrupt
+3 notorious
+3 Senegal
+3 revelation
+3 general election
+3 Kenya
+3 Supreme Court
+3 promised
+3 discipline
+3 constitutional reform
+3 killed
+3 margin
+3 Philippine president
+3 South Asia
+3 painted
+3 public office
+3 Commission
+3 Burkina Faso
+3 masks
+3 Hunt
+3 preserve
+3 public funds
+3 calculating
+3 Protesters
+3 Robins
+3 Rastriya Prajatantra Party
+3 18 months
+3 stern
+3 Ethiopia
+3 Maduro
+3 attacks
+3 chilling
+3 bars
+3 high point
+3 Rule Of Law Index
+3 privacy
+3 burn
+3 declared
+3 authoritarian
+3 fundamental human rights
+3 Manila
+3 legal obligations
+3 chronic
+3 10 years
+3 Nordic noir
+3 democratic institutions
+3 courts
+3 registered
+3 vigil
+3 Amnesty International
+3 youth vote
+3 abstinence
+3 Youth
+3 talks
+3 journey
+3 ní
+3 young girls
+3 activists
+3 Catholic
+3 prohibition
+3 empowering
+3 believing
+3 Jess
+3 14 years
+3 termination
+3 poll
+3 disappear
+3 republic
+3 Brook
+3 abortion debate
+3 visual
+3 dancing
+3 suspended
+3 suspended sentence
+3 Trinity
+3 restrictions
+3 Dublin
+3 message
+3 Amnesty
+3 tears
+3 regularly
+3 Sean
+3 bills
+3 navigate
+3 surprised
+3 virtually
+3 Canning
+3 hunger
+3 Right
+3 Harrow
+3 Bach
+3 budget
+3 insecure
+3 policymakers
+3 USA
+3 refugee
+3 reasonable
+3 Increasingly
+3 Brooke
+3 University College London
+3 The mechanics
+3 responded
+3 Employers
+3 sales
+3 concessions
+3 demonstrated
+3 replacing
+3 John Spry
+3 pending
+3 Economy
+3 hotel
+3 picket
+3 prep
+3 skeptical
+3 precisely
+3 Airline
+3 contract
+3 negotiated
+3 walked
+3 White House
+3 librarians
+3 Striking
+3 Community School
+3 25 years
+3 referring
+3 infusion
+3 shadow
+3 restore
+3 representing
+3 nonunion
+3 participated
+3 responding
+3 turning
+3 soared
+3 economic crisis
+3 exploited
+3 Catch
+3 San Francisco
+3 Mexico
+3 budgets
+3 essence
+3 Yang
+3 social injustice
+3 hustle
+3 Tilda Swinton
+3 TV
+3 Yet
+3 smart
+3 drives
+3 South Koreans
+3 professors
+3 scandals
+3 ouster
+3 continuing
+3 slowed
+3 accusations
+3 slang
+3 starring
+3 Joon
+3 catch
+3 supporter
+3 impeached
+3 Chung
+3 Steven Yeun
+3 set
+3 Ring
+3 Moon
+3 cinema
+3 Bong Joon Ho
+3 South Korean film
+3 East Asian studies
+3 Fairness
+3 real income
+3 absolute poverty
+3 propensity
+3 subnational
+3 Social justice
+3 progressive taxation
+3 Wealth distribution
+3 Capabilities approach
+3 Trade
+3 safety nets
+3 economic mobility
+3 Taxes
+3 mutual
+3 investigated
+3 justified
+3 prejudices
+3 imperfect
+3 socialists
+3 entrepreneurs
+3 A major
+3 relevant
+3 economic equality
+3 Economic development
+3 Income inequality metrics
+3 Progressive taxation
+3 Journal
+3 Billionaire
+3 Argentina
+3 Information technology
+3 fellowship
+3 Argument
+3 Jeff Bezos
+3 surging
+3 Patrick
+3 continental
+3 aversion
+3 sections
+3 Marxist
+3 structural adjustment
+3 Earned Income Tax Credit
+3 Malthusian
+3 Kuznets curve
+3 real estate
+3 wealth gap
+3 posits
+3 United Nations University
+3 IPS
+3 Colombia
+3 global warming
+3 Anthony Giddens
+3 defines
+3 Marxism
+3 Organisation
+3 Finance
+3 Diamond
+3 patent
+3 Measurements
+3 Capital
+3 Thomas Malthus
+3 advancement
+3 top quintile
+3 Scandinavian
+3 measuring
+3 mixed
+3 customs
+3 determination
+3 market failure
+3 separated
+3 Daron Acemoglu
+3 subsidies
+3 promotes
+3 progressivity
+3 methods
+3 translates
+3 United Nations Development Programme
+3 fragmentation
+3 economic system
+3 Global warming
+3 Bill Gates
+3 accelerating
+3 advertisement
+3 December
+3 deregulation
+3 political freedom
+3 The Economist
+3 differentials
+3 advancing
+3 sectors
+3 social security
+3 minimum wages
+3 divides
+3 innovative
+3 bid
+3 resolved
+3 measurements
+3 Capitalism
+3 Nozick
+3 libertarians
+3 Rent seeking
+3 divergence
+3 rare
+3 genius
+3 Manhattan
+3 Ruth
+3 fourth
+3 violin
+3 Sally
+3 define
+3 Up
+3 Just
+3 imagining
+3 elected
+3 Business Roundtable
+3 legislatures
+3 Recently
+3 Andrew
+3 certification
+3 Irv
+3 private equity
+3 capital markets
+3 operate
+3 Society
+3 edited
+3 transform
+3 missing
+3 desk
+3 Companies
+3 transformed
+3 enable
+3 nature
+3 averaged
+3 institute
+3 inclusive growth
+3 Brazilian
+3 robust
+3 reversal
+3 participating
+3 pills
+3 WhatsApp
+3 saviors
+3 Mark Zuckerberg
+3 knife
+3 pointed
+3 seats
+3 absolutely
+3 social network
+3 Anand Giridharadas
+3 voices
+3 repeated
+3 complicity
+3 steel
+3 length
+3 heard
+3 rigged
+3 Before
+3 cooperate
+3 captures
+3 The evidence
+3 roots
+3 highlights
+3 modest
+3 squeezed
+3 grand narrative
+3 road
+3 fit
+3 living standards
+3 polarised
+3 leaving
+3 purchasing power
+3 Household
+3 managerial
+3 independent contractors
+3 Freelance
+3 National Domestic Workers Alliance
+3 Organizations
+3 collective bargaining agreement
+3 combining
+3 block
+3 negotiating
+3 fast food
+3 adhere
+3 Rather
+3 items
+3 recessions
+3 secondary school
+3 milestone
+3 doubled
+3 young adults
+3 compounding
+3 balanced
+3 concrete
+3 indicating
+3 sexist
+3 Ils
+3 guidelines
+3 Google Translate
+3 mathematical models
+3 texts
+3 Human capital
+3 inaccessible
+3 demographic dividend
+3 transitions
+3 features
+3 exams
+3 caregiver
+3 graduated
+3 departments
+3 framed
+3 geographic
+3 completed
+3 adulthood
+3 Currently
+3 youth unemployment
+3 Financial Aid
+3 findings
+3 accounting
+3 social inclusion
+3 vulnerability
+3 attract
+3 Population growth
+3 Vienna
+3 timely
+3 Vancouver
+3 Victorian
+3 substance abuse
+3 Plan
+3 Congress
+3 taxpayers
+3 marriages
+3 tradition
+3 preferential
+3 Again
+3 Cuts
+3 Jobs Act
+3 deduction
+3 LGBTQ community
+3 4 times
+3 5 times
+3 quantitative
+3 accounts
+3 properly
+3 reallocation
+3 life cycle
+3 arithmetic
+3 Consider
+3 square
+3 imputed
+3 green
+3 coefficients
+3 K4
+3 agents
+3 mathematically
+3 gross national income
+3 subsystem
+3 Jones
+3 addresses
+3 Coefficient
+3 yellow
+3 belong
+3 category
+3 spreadsheet
+3 decomposable
+3 plot
+3 foster
+3 column
+3 optimized
+3 empirical
+3 Mrs
+3 theories
+3 moderate
+3 definition
+3 transfer principle
+3 Proper
+3 weighting
+3 exported
+3 entropies
+3 efficiency
+3 Uganda
+3 stochastically
+3 final
+3 investigation
+3 reallocated
+3 dispersion
+3 revealing
+3 weak form
+3 linear
+3 gradually
+3 Mayor
+3 Census Bureau
+3 USAFacts
+3 social assistance
+3 government transfers
+3 purchasing power parity
+3 One reason
+3 Arguments
+3 global economy
+3 connected
+3 moments
+3 Colonialism
+3 settle
+3 Convergence
+3 colonization
+3 Along
+3 materials
+3 Having
+3 extract
+3 political science
+3 industrialised
+3 path dependence
+3 Policies
+3 Dominican Republic
+3 equation
+3 connect
+3 attitude
+3 colonizers
+3 bar graph
+3 Democracy
+3 The Industrial Revolution
+3 calculation
+3 Mental
+3 Costa Rica
+3 advances
+3 Less
+3 health inequality
+3 apartheid
+3 Gradient
+3 neonatal
+3 II
+3 carried
+3 South African
+3 primary education
+3 internet
+3 Given
+3 social groups
+3 Understanding
+3 shorter
+3 testing
+3 interpreters
+3 Advocacy
+3 prenatal
+3 malnutrition
+3 prevention
+3 Goal
+3 Ethnic
+3 communication problems
+3 consciously
+3 infant mortality
+3 Cooperative Medical System
+3 health literacy
+3 curriculum
+3 origins
+3 Patient
+3 cervical cancer
+3 coordination
+3 compromising
+3 DSM
+3 served
+3 invasive procedures
+3 Switzerland
+3 bleeding
+3 living conditions
+3 ii
+3 hormonal
+3 Marmot
+3 compromise
+3 Director
+3 hypertension
+3 detection
+3 Communication
+3 infant mortality rate
+3 Public Health
+3 Joint
+3 indigenous populations
+3 World Health Organization
+3 recognize
+3 ethnic groups
+3 residential segregation
+3 physiological
+3 recognizes
+3 Tanzania
+3 interviewed
+3 waiting
+3 Mali
+3 targets
+3 racially
+3 internationally
+3 controllable
+3 updated
+3 mandate
+3 Niger
+3 Without
+3 Tajikistan
+3 healthcare professionals
+3 gender discrimination
+3 listed
+3 differs
+3 familial
+3 Evidence Based Medicine
+3 clinician
+3 topics
+3 genetic
+3 general population
+3 involve
+3 objectives
+3 Science
+3 Test
+3 local property
+3 cognitive
+3 Disabilities
+3 Measurement
+3 constructing
+3 deeply rooted
+3 Immigration
+3 Standardized tests
+3 basic education
+3 safe space
+3 GPA
+3 nominations
+3 professional development
+3 financial aid
+3 inhabit
+3 Pakistan
+3 100 girls
+3 SATs
+3 Diaspora
+3 History
+3 interactions
+3 total cost
+3 rigorous
+3 assistance
+3 instruction
+3 educational institutions
+3 homeland
+3 Conroy
+3 illustrated
+3 Recommendations
+3 Nagar
+3 caucasians
+3 Higher education
+3 Evidence
+3 UNESCO
+3 Boys
+3 Southern
+3 Out
+3 educational access
+3 poor school
+3 special education
+3 Longitudinal Study
+3 Resources
+3 Schools
+3 Blacks
+3 separation
+3 Board
+3 MOOC
+3 siblings
+3 Property tax
+3 Asian American
+3 assessments
+3 College
+3 universities
+3 dilemma
+3 SD
+3 educating
+3 intellectual
+3 loans
+3 Gifted
+3 transition
+3 Multicultural education
+3 pupil
+3 preschool
+3 networks
+3 enslavement
+3 ready
+3 Hispanic American
+3 progressed
+3 Attacks
+3 tracks
+3 ceiling
+3 agencies
+3 equalize
+3 accessible
+3 Ministry
+3 museums
+3 Massive
+3 curricula
+3 acquiring
+3 competencies
+3 donor
+3 Remedies
+3 Sex differences
+3 Federal Student Aid
+3 familiarity
+3 maternal mortality
+3 birth control
+3 Bigelow
+3 Challenges
+3 sperm
+3 alike
+3 WEF
+3 Professional
+3 raw
+3 pilot
+3 sex segregation
+3 Cambodian
+3 social sciences
+3 Customer
+3 excuse
+3 Biology
+3 gender inequalities
+3 European nations
+3 adolescent
+3 communication technologies
+3 Impact
+3 white male
+3 husbands
+3 digital technology
+3 programmes
+3 topped
+3 bearing
+3 actresses
+3 acts
+3 carry
+3 service sector
+3 spots
+3 liability
+3 poses
+3 The glass ceiling
+3 rug
+3 gender equity
+3 biology
+3 producers
+3 Lockwood
+3 toys
+3 evaluation
+3 Property
+3 blue
+3 maternal deaths
+3 empathetic
+3 Feminism
+3 aggression
+3 analysts
+3 criminal justice system
+3 customer
+3 disaggregated
+3 Changed
+3 competitive
+3 UN
+3 dentists
+3 intersection
+3 egg
+3 equalizing
+3 advertising
+3 parenting
+3 Starr
+3 fertilisation
+3 visuospatial
+3 Statistical discrimination
+3 competence
+3 circulating
+3 voice
+3 Natural gender
+3 conservative
+3 colour
+3 delay
+3 affinity
+3 manual
+3 correlating
+3 gender stereotypes
+3 blood cells
+3 pink
+3 cultural norms
+3 Variations
+3 income disparity
+3 discrepancy
+3 Educational Inequality
+3 Institutional
+3 Participation inequality
+3 cultural norm
+3 political rights
+3 political theorists
+3 Expansion
+3 health professionals
+3 recruit
+3 vacancy
+3 staffing
+3 Nursing
+3 organisations
+3 clerical
+2 Rodrick
+2 queer
+2 social ranks
+2 human societies
+2 statistical dispersion
+2 Diseases
+2 enforcing
+2 federal prison
+2 minority category
+2 documents
+2 voter fraud
+2 engender
+2 administrations
+2 Castes
+2 direct payments
+2 The leaders
+2 incarcerated
+2 separations
+2 sixth
+2 political representation
+2 Vasily
+2 Virtually
+2 dysfunctions
+2 Karl Marx
+2 clustered
+2 capitalist economies
+2 open market
+2 Ostry
+2 legitimize
+2 stimulates
+2 space
+2 restricting
+2 assertive
+2 Following
+2 payers
+2 political reforms
+2 governmental agencies
+2 environmental factors
+2 smooth
+2 proportions
+2 economic systems
+2 nobility
+2 global issues
+2 exhaust
+2 socialism
+2 speaks
+2 glass
+2 liberal economic
+2 trillions
+2 ROI
+2 Ascribed characteristics
+2 collectivists
+2 horizontally
+2 excel
+2 The Middle
+2 Achieved
+2 quantification
+2 scales
+2 In treatment
+2 Aboriginal
+2 Angela Davis
+2 wholesale
+2 warrant
+2 adoption
+2 social relationships
+2 capital accumulation
+2 Government spending
+2 activist
+2 job security
+2 claw
+2 matrix
+2 variations
+2 Productivity
+2 Ranked society
+2 generating
+2 cycles
+2 globalizing
+2 estates
+2 Estate
+2 venture
+2 meritocratic
+2 hierarchically
+2 arrangement
+2 financial sector
+2 classical liberalism
+2 philosophies
+2 social ethics
+2 solvency
+2 disciplines
+2 abstract
+2 precondition
+2 entry level
+2 innate
+2 Status
+2 reserves
+2 Theoretical
+2 subsistence
+2 dismissed
+2 outlook
+2 Makinen
+2 income redistribution
+2 equal opportunities
+2 Norms
+2 capitalistic
+2 eastern societies
+2 free trade
+2 safeguards
+2 reformists
+2 First Nations
+2 devaluations
+2 spurs
+2 validated
+2 Individualist
+2 US health care system
+2 opposing
+2 nineties
+2 returning
+2 humanity
+2 gender expression
+2 Third
+2 age discrimination
+2 accompanied
+2 subordinate
+2 Anthropologists
+2 economic power
+2 manages
+2 banking system
+2 global recession
+2 collectivism
+2 contextualized
+2 income class
+2 eras
+2 Michael Young
+2 Finally
+2 bureaucratic
+2 social reproduction
+2 financial services
+2 privatization
+2 concentrate
+2 Masculinities
+2 life quality
+2 pension
+2 Working class
+2 allocated
+2 skin color
+2 ancient
+2 interpersonal
+2 subsidy
+2 social policies
+2 obsession
+2 disenfranchising
+2 Washington
+2 skin colour
+2 reduce poverty
+2 bailouts
+2 estimate
+2 Philosophical
+2 senior management
+2 maximize
+2 social complexity
+2 limiting
+2 Until
+2 social conflict
+2 massive
+2 Citizens
+2 lords
+2 inevitability
+2 Gender discrimination
+2 discourses
+2 national wealth
+2 social harmony
+2 economic policies
+2 The Rise
+2 Cummings
+2 capitalists
+2 fare
+2 divisions
+2 capital gain
+2 Birdsall
+2 eye
+2 age structure
+2 Membership
+2 Tang
+2 raising taxes
+2 ideals
+2 economic opportunity
+2 technologically
+2 compensated
+2 ageing
+2 racial inequality
+2 dedicate
+2 Vertical
+2 Raewyn Connell
+2 Indigenous persons
+2 exceptional
+2 labourers
+2 Ethnicity
+2 Stratified
+2 narrowed
+2 industriousness
+2 negative effects
+2 upper middle class
+2 social rights
+2 ambition
+2 removing
+2 mainstay
+2 Tripartite System
+2 power elite
+2 Governmental
+2 determines
+2 Communities
+2 Ortiz
+2 Bourguignon
+2 Employment Act
+2 Racism
+2 stimulating
+2 Perry
+2 Worlds
+2 hopeful
+2 Occupation
+2 patrimonial
+2 illness
+2 ageist
+2 private insurance
+2 rolling
+2 Old age
+2 Moving
+2 metropolitan
+2 earned income
+2 federal elections
+2 public goods
+2 lifetime
+2 Global North
+2 Horizontal
+2 The upper class
+2 materially
+2 social hierarchies
+2 individualist
+2 Fabianism
+2 Gross Domestic Product
+2 Saez
+2 confirm
+2 economic capital
+2 negative connotations
+2 remedy
+2 ranked society
+2 possessors
+2 consumers
+2 Wright
+2 brackets
+2 Radical Feminism
+2 marital status
+2 detriment
+2 nationally
+2 sociology
+2 casting
+2 social system
+2 structural forces
+2 Drugs
+2 stratum
+2 The War
+2 regionally
+2 life expectancies
+2 Classic
+2 economic indicator
+2 mass incarceration
+2 painting
+2 illiteracy
+2 social power
+2 public debt
+2 drug possession
+2 tribal societies
+2 implied
+2 raced
+2 resistance
+2 equalized
+2 prized
+2 social position
+2 lobbyists
+2 intervene
+2 normativity
+2 Feminist
+2 possessions
+2 commodity
+2 horizontal inequality
+2 normalized
+2 fiscal policies
+2 bode
+2 Doug
+2 tips
+2 analysed
+2 keywords
+2 slew
+2 Personnel
+2 charters
+2 adopting
+2 Legislators
+2 ethics
+2 temporary work
+2 license
+2 Related
+2 analytics
+2 Muswell Hill
+2 word choice
+2 interviewer
+2 web forums
+2 burden
+2 analyses
+2 creative thinking
+2 North American
+2 ONS
+2 variable
+2 UNI Global Union
+2 standardised
+2 church hall
+2 coordinator
+2 Michael Page
+2 emails
+2 ahs
+2 Heather
+2 Cambridge
+2 perceptible
+2 impulses
+2 Nathan
+2 maths
+2 slipping
+2 giants
+2 custom built
+2 job applicants
+2 imminent
+2 service providers
+2 psychometric tests
+2 Mya
+2 interviews
+2 Colclough
+2 Aptitude
+2 microexpressions
+2 screenings
+2 Sitting
+2 marked
+2 copyright
+2 flagship
+2 realities
+2 reactive
+2 The applicant
+2 pushes
+2 Your
+2 Dan
+2 compounded
+2 counsellors
+2 insight
+2 interacting
+2 Systems
+2 Unilever
+2 legally binding
+2 General Data Protection Regulation
+2 racist
+2 Chartered
+2 obligation
+2 green light
+2 Every time
+2 The program
+2 Meanwhile
+2 automating
+2 packages
+2 tilt
+2 Christians Against Poverty
+2 facial expressions
+2 sells
+2 Caldeira
+2 Tens
+2 frustrating
+2 pile
+2 apex
+2 targeted
+2 senior managing director
+2 policing
+2 voluntary
+2 judging
+2 opens
+2 Goldman Sachs
+2 Tests
+2 door
+2 relayed
+2 navigating
+2 requests
+2 posture
+2 personal data
+2 screens
+2 Deborah
+2 digitalisation
+2 fetched
+2 mirror
+2 underground
+2 ambiguous
+2 disillusioned
+2 posted
+2 forties
+2 data points
+2 camera
+2 Beyond
+2 tricks
+2 scanned
+2 collide
+2 general secretary
+2 assistant professor
+2 leisure time
+2 podcast
+2 intensively
+2 Frances
+2 Housework
+2 Traditional
+2 unpaid work
+2 contacts
+2 Holland
+2 papers
+2 Trades Union Congress
+2 Norfolk
+2 Candice
+2 2hr
+2 pride
+2 Toronto
+2 asset managers
+2 breadwinners
+2 cites
+2 work time
+2 academic journal
+2 tidy
+2 lag
+2 Sex Roles
+2 Melissa
+2 averaging
+2 Guilt
+2 knackered
+2 classic house
+2 Saint Louis University
+2 insurers
+2 empathy
+2 banks
+2 Lab
+2 International Social Survey Programme
+2 The Story
+2 Home truths
+2 workload
+2 grappling
+2 Use
+2 wipe
+2 road accidents
+2 behaviours
+2 pension funds
+2 McIntyre
+2 norm
+2 forecasting
+2 smoked
+2 Danny Dorling
+2 predicted
+2 geography
+2 Postcodes
+2 tolls
+2 Raj
+2 The Office
+2 projecting
+2 PricewaterhouseCoopers
+2 contraception
+2 constituent
+2 environmental health
+2 slowdown
+2 alcohol consumption
+2 structurally
+2 estimating
+2 Niamh
+2 Cass Business School
+2 Pension funds
+2 Majid
+2 Mody
+2 intersected
+2 statistical analysis
+2 blip
+2 tobacco industry
+2 great strides
+2 curves
+2 social psychology
+2 National Academy
+2 blood
+2 traumatic head injuries
+2 chair
+2 vignettes
+2 Karim
+2 sciences
+2 emergency medicine
+2 Proceedings
+2 surgical
+2 Paramedics
+2 sooner
+2 Royal London Hospital
+2 hip fractures
+2 databases
+2 healthcare providers
+2 medical students
+2 journal
+2 Huge
+2 rigour
+2 homeless
+2 musculoskeletal
+2 traumas
+2 uniform
+2 subconsciously
+2 teams
+2 quarters
+2 South Side
+2 odds
+2 gunshot
+2 surveying
+2 trap
+2 trauma unit
+2 Ten
+2 Adil Haider
+2 medication
+2 Brohi
+2 subtle
+2 traumatic injury
+2 narrower
+2 susceptible
+2 National Trauma Data Bank
+2 postcode
+2 Harvard Medical School
+2 urges
+2 likelihoods
+2 designed
+2 implicit bias
+2 cognitive biases
+2 Obviously
+2 Multiple
+2 equalisers
+2 stir
+2 uncover
+2 interfere
+2 iconic
+2 insult
+2 unconscious bias
+2 detect
+2 streams
+2 Affordable Care Act
+2 healthcare system
+2 The emergency room
+2 deserts
+2 orthopaedic surgeon
+2 stab wounds
+2 vicious cycle
+2 experiment
+2 survival rates
+2 Sciences
+2 observing
+2 Barts
+2 stacked
+2 image
+2 flying blind
+2 emergency departments
+2 malnourished
+2 unanimously
+2 apostolic church
+2 legal documents
+2 troubled
+2 grocery store
+2 delayed
+2 glad
+2 scholarship
+2 terrifying
+2 representatives
+2 emotion
+2 loopholes
+2 barbecue
+2 interchangeable
+2 statutory rape
+2 sending
+2 Cassandra
+2 empowered
+2 sexual abuse
+2 strokes
+2 personal development
+2 ceremony
+2 Which
+2 Child marriage
+2 baby
+2 kidnapping
+2 divorce
+2 psychiatric disorders
+2 speechless
+2 Katharina
+2 tough
+2 child marriages
+2 My local
+2 thanked
+2 deacon
+2 healing
+2 ends
+2 human trafficking
+2 love
+2 Susan
+2 contacted
+2 New Hampshire
+2 gallery
+2 Between
+2 Levesque
+2 forcing
+2 Really
+2 Actually
+2 disrupted
+2 senators
+2 harmful
+2 Nor
+2 choke
+2 Kentucky
+2 breadwinner
+2 counselling
+2 domestic violence
+2 Floridian
+2 marries
+2 clerk
+2 left school
+2 recounts
+2 Something
+2 expelled
+2 Looking
+2 Donna
+2 mental health counsellor
+2 definite
+2 outline
+2 paedophiles
+2 physically abusive
+2 reasoning
+2 heart attacks
+2 awake
+2 abusing
+2 normalising
+2 smile
+2 void
+2 ironic
+2 freight train
+2 Tallahassee
+2 The bridegroom
+2 Afterwards
+2 Jewish
+2 crime fiction
+2 reductions
+2 South Asian
+2 BST
+2 Murray
+2 planted
+2 Martial law
+2 trajectory
+2 Ironically
+2 legal systems
+2 Burundi
+2 interior ministry
+2 irony
+2 probation
+2 ombudsman
+2 trio
+2 repelled
+2 globalising
+2 hyperinflation
+2 reforms
+2 Sat
+2 Lady
+2 Leila de Lima
+2 detained
+2 homicidal
+2 surrendered
+2 iniquity
+2 indicators
+2 winning
+2 Filipinos
+2 Judiciary
+2 penal system
+2 devolution
+2 legal rights
+2 lasted
+2 Nik
+2 Jason Burke
+2 Foro
+2 inspection
+2 detectives
+2 Integrity
+2 91st
+2 chairman
+2 mafia
+2 continent
+2 Human Rights
+2 congress
+2 Sri Lanka
+2 election campaigns
+2 violations
+2 crusading
+2 observance
+2 Fans
+2 registries
+2 existential threat
+2 executive
+2 quintet
+2 Georgia
+2 top spot
+2 islands
+2 celebration
+2 oversight
+2 displaced
+2 Prakash Aryal
+2 faller
+2 insurgencies
+2 KRS
+2 Carmela
+2 Noel
+2 McKenzie
+2 Oct
+2 perfect score
+2 59th
+2 The checks
+2 Fundamental
+2 inhabitants
+2 Nepali
+2 investigative reporters
+2 Samuel Moyn
+2 Christian Davies
+2 Roundtable
+2 Provincial
+2 retains
+2 Bingham
+2 white collar
+2 Observatory
+2 Wojtek
+2 depressive
+2 Scott
+2 Four
+2 Bethel
+2 brutal
+2 pity
+2 Around
+2 witnessing
+2 Violence
+2 curing
+2 Alison
+2 armed conflict
+2 Om Prakash
+2 street crime
+2 sake
+2 prisoners
+2 distraction
+2 recognised
+2 offshore
+2 criminal behaviour
+2 terrorism
+2 eroded
+2 homicide rate
+2 procurement
+2 Senator
+2 David Crouch
+2 local elections
+2 comparable
+2 political leaders
+2 common good
+2 civil society actors
+2 Bar Association
+2 reoffending
+2 freer
+2 Robert Mugabe
+2 transformative
+2 protecting
+2 orientation
+2 prey
+2 civil strife
+2 62nd
+2 movements
+2 slump
+2 Islamic caliphate
+2 Panama Papers
+2 Political parties
+2 judicial corruption
+2 gangsters
+2 Penal
+2 climbing
+2 improvised explosive devices
+2 rating scale
+2 general elections
+2 American government
+2 surprising
+2 backlash
+2 heads
+2 downside
+2 skimming
+2 supreme court chief justice
+2 Transparency International
+2 JB
+2 wrong direction
+2 Philippine Commission
+2 amendments
+2 chunky
+2 eighth
+2 101st
+2 resurgence
+2 The picture
+2 Venezuelan
+2 Mindanao
+2 confirmation
+2 judges
+2 myths
+2 iron fist
+2 Pacific
+2 impeachment
+2 South Sudan
+2 Scandinavian countries
+2 Uzbekistan
+2 administration
+2 Equal
+2 imports
+2 Nicolás
+2 Marawi City
+2 Grenadians
+2 113th
+2 Zimbabwe
+2 crimes
+2 government officials
+2 civil justice
+2 sweaters
+2 Yale University
+2 Nordic neighbours
+2 private property rights
+2 confirmed
+2 protesting
+2 ethical
+2 The founder
+2 close friends
+2 life imprisonment
+2 silencing
+2 shameful
+2 partying
+2 dislocation
+2 strange
+2 abnormalities
+2 volumes
+2 Abortion Rights Campaign
+2 poles
+2 Maria
+2 Northern Irish
+2 souls
+2 Trinity College
+2 danger
+2 church
+2 shrouded
+2 Saturday
+2 liberate
+2 Eighth Amendment
+2 health clinics
+2 exiled
+2 Health data
+2 blanket
+2 sex education
+2 sisters
+2 GP
+2 emotive
+2 Streaming
+2 London Irish
+2 criminalisation
+2 rally
+2 journeys
+2 beautiful
+2 streets
+2 pray
+2 loving
+2 voicing
+2 The Brook
+2 family planning
+2 conferences
+2 denial
+2 simultaneously
+2 Irish referendum
+2 stalemate
+2 Media bias
+2 poison
+2 devolved
+2 queue
+2 reproductive rights
+2 silence
+2 In Northern Ireland
+2 border
+2 The risk
+2 angry
+2 endemic
+2 positive reaction
+2 Sunday Times
+2 tactic
+2 The latest
+2 Clare
+2 Catholic education
+2 stealing
+2 subverted
+2 subsidiary
+2 gearing
+2 abortion pills
+2 Precious
+2 tragedy
+2 west coast
+2 returned
+2 sexual health
+2 fundraiser
+2 onwards
+2 Anna
+2 sluts
+2 normalised
+2 instinct
+2 incest
+2 February
+2 abortion referendum
+2 centred
+2 Ulster
+2 hosting
+2 Stanton
+2 maximum sentence
+2 dead babies
+2 Identifying
+2 venues
+2 Irish government
+2 prohibitions
+2 PR
+2 terminations
+2 abnormality
+2 unwanted pregnancies
+2 brainwashed
+2 legal cases
+2 brainwashing
+2 procuring
+2 Ponce
+2 Sentencing
+2 physical illness
+2 track
+2 hostile environment
+2 exhausted
+2 Fri
+2 pitted
+2 officer
+2 Graeme
+2 work capability assessment
+2 Estelle
+2 hedge
+2 utility
+2 Lord
+2 headlines
+2 bullying
+2 neighbourhood
+2 upper tribunal
+2 fuel
+2 headed
+2 perfect storm
+2 cold
+2 iceberg
+2 Punishment
+2 confidence
+2 Civil
+2 pound
+2 legal system
+2 Legal Aid
+2 trouble
+2 contact
+2 sleeping tablets
+2 Hong Kong
+2 paranoid schizophrenia
+2 vandalism
+2 benefit cap
+2 charity
+2 housing crisis
+2 stressful
+2 bedroom tax
+2 talking
+2 social anxiety
+2 Henry Brooke
+2 manager
+2 Rights
+2 Welsh
+2 overturned
+2 separation processes
+2 sheds
+2 victimised
+2 credit card
+2 structural discrimination
+2 Pamela
+2 Hackney
+2 analysing
+2 Pascoe
+2 arrears
+2 Mon
+2 escalate
+2 burst
+2 Social Justice
+2 Boulay
+2 Community Law
+2 vicious circle
+2 absurd
+2 Alejandro
+2 Lott
+2 operations
+2 labor costs
+2 General Motors
+2 Senior
+2 solvent
+2 governor
+2 employment contracts
+2 Spring Hill
+2 free fall
+2 Business
+2 airlines
+2 documented
+2 labor markets
+2 Estrada
+2 bidding
+2 Marriott International
+2 cadre
+2 Elephant
+2 rivals
+2 electric vehicles
+2 Staring Down
+2 Ayahuasca
+2 Jason Furman
+2 unemployment rate
+2 Flush
+2 Washington University
+2 Alive
+2 Gunderson
+2 Same
+2 collapsed
+2 committee
+2 Council
+2 Citizen
+2 automakers
+2 pocket
+2 Domestic
+2 prime
+2 temps
+2 Selina
+2 collusion
+2 alter
+2 teaching assistants
+2 Southwest Airlines
+2 Everybody
+2 UNITE HERE
+2 Calm
+2 airline industry
+2 Strike
+2 backdrop
+2 cancellations
+2 clauses
+2 mediation
+2 delays
+2 Noah
+2 Federal Reserve Bank
+2 Season
+2 smelters
+2 imperiled
+2 expecting
+2 doors
+2 mines
+2 Texas
+2 Lordstown
+2 Ohio
+2 Rosenfeld
+2 flush
+2 partially
+2 flexibility
+2 Michelle
+2 Neel Kashkari
+2 Strong
+2 economic opportunism
+2 Sara Nelson
+2 Jake
+2 winning streak
+2 bargaining power
+2 Taylor
+2 intention
+2 Corporate
+2 surface
+2 school nurses
+2 bankruptcy court
+2 rides
+2 Minneapolis
+2 copper
+2 lure
+2 airline catering
+2 United Automobile Workers
+2 Kept
+2 permanently
+2 bribery
+2 bred
+2 dreams
+2 police officers
+2 viral
+2 justice minister
+2 joins
+2 pulling strings
+2 Porsche
+2 dining room
+2 housemaid
+2 friend
+2 subterfuge
+2 forging
+2 gelatinous
+2 trick
+2 boy
+2 stream
+2 panes
+2 conspiring
+2 tutor
+2 parody
+2 spotted
+2 Irvine
+2 Go
+2 surrounded
+2 unbridled
+2 epitomized
+2 current events
+2 pretends
+2 quirky
+2 big hits
+2 Korean cinema
+2 sushi
+2 drug dealers
+2 fried chicken
+2 sting operation
+2 nepotistic
+2 Watching
+2 broke
+2 bitterness
+2 medical school
+2 reflection
+2 leeching
+2 approval rating
+2 thriller
+2 criticizing
+2 lawn
+2 fluent
+2 casual
+2 Dirt
+2 beef
+2 resonate
+2 fascinated
+2 Gallup poll
+2 loyal
+2 indicted
+2 booming
+2 Call
+2 doubles
+2 Spoiler
+2 Kim family
+2 dark
+2 perpetual motion
+2 creating opportunities
+2 posing
+2 Frustration
+2 installing
+2 luxurious
+2 extortion
+2 awkward
+2 window
+2 Get
+2 Nobody wins
+2 neurotic
+2 NaYeon
+2 cynicism
+2 private schools
+2 survivors
+2 Cinema
+2 Dad
+2 lighter
+2 premium
+2 distracted
+2 Mom
+2 directed
+2 referral
+2 giant
+2 cars
+2 Newsletter
+2 coincidence
+2 steal
+2 destitute
+2 cleanliness
+2 fling
+2 favorite
+2 art therapist
+2 certificate
+2 lectures
+2 dwellers
+2 phrases
+2 blocks
+2 incident
+2 pizza
+2 falsified
+2 love triangle
+2 sentiments
+2 urinal
+2 allusion
+2 protein
+2 investigations
+2 cheap
+2 toilet
+2 tail
+2 watch
+2 counterfeit
+2 lust
+2 uncovered
+2 prospects
+2 Maryland
+2 cockroaches
+2 Central
+2 hedges
+2 sister
+2 Marxist philosophy
+2 Typical
+2 Mises
+2 World map
+2 subtracting
+2 units
+2 United Front
+2 saving
+2 transcend
+2 station
+2 John Rawls
+2 inverse
+2 Lane Kenworthy
+2 Divided
+2 property income
+2 harm
+2 Pope Francis
+2 Century
+2 rectify
+2 asserted
+2 Thomas Sowell
+2 reforming
+2 social problems
+2 protective security
+2 essential
+2 Galbraith
+2 Reducing
+2 brake
+2 David Landes
+2 capital equipment
+2 power shift
+2 composite
+2 PolitiFact
+2 virtue
+2 Emmanuel Saez
+2 compensate
+2 socially owned
+2 Friedman
+2 unionization
+2 fundamentals
+2 human race
+2 Policy Studies
+2 labor market flexibility
+2 Scandinavians
+2 presumption
+2 Verdier
+2 Knowledge
+2 issued
+2 lead author
+2 social unrest
+2 homicide rates
+2 Historical
+2 economic thought
+2 catastrophes
+2 attributes
+2 trade liberalisation
+2 embedded
+2 economic inequalities
+2 arguing
+2 monopolized
+2 anthropologist
+2 fundamental force
+2 derive
+2 civilization
+2 cheaters
+2 market forces
+2 social exclusion
+2 Market forces
+2 Ukraine
+2 aggregate demand
+2 neighbouring
+2 Duke University
+2 Jeffrey Sachs
+2 Milton
+2 silly
+2 goodwill
+2 status quo
+2 software developers
+2 Higher
+2 capitalist system
+2 The liberal
+2 Honduras
+2 Social liberals
+2 Classical liberal
+2 preserved
+2 Against
+2 root
+2 communist society
+2 Equality
+2 total war
+2 bolster
+2 extreme violence
+2 Nordic countries
+2 univocal
+2 PNAS
+2 autonomy
+2 food stamp program
+2 provisions
+2 member nations
+2 loosely
+2 unleash
+2 observe
+2 Austrian School
+2 Walter Scheidel
+2 Jason
+2 trigger
+2 thermonuclear war
+2 hoarding
+2 Wage ratio
+2 Ralph Nader
+2 James Robinson
+2 births
+2 Theory
+2 Decisions
+2 Eventually
+2 public spending
+2 proportionally
+2 optional
+2 political polarization
+2 John Schmitt
+2 Rothwell
+2 classical liberals
+2 Evangelii gaudium
+2 Rising
+2 US magazine
+2 Public policy
+2 net wealth
+2 Global South
+2 relative merits
+2 widespread panic
+2 Sociology
+2 Paul Krugman
+2 boosting
+2 Families
+2 Already
+2 The actual
+2 Inherited wealth
+2 device
+2 financially
+2 possibility
+2 innovations
+2 Cooperation
+2 Spain
+2 Communist revolution
+2 Fiscal
+2 inequity aversion
+2 CEPR
+2 USSR
+2 Kate Pickett
+2 federal minimum wage
+2 Capability approach
+2 financial transactions tax
+2 In September
+2 Henceforth
+2 pure
+2 Dependent
+2 Changes
+2 reformed
+2 laboratory
+2 common ownership
+2 Tax credits
+2 attacking
+2 millionaires
+2 union membership
+2 Digital Revolution
+2 vocational school
+2 mankind
+2 Slovenia
+2 Facilitation
+2 political groups
+2 accumulated
+2 Assortative mating
+2 social liberals
+2 Franklin Delano Roosevelt
+2 Preference
+2 adolescence
+2 Keynesian
+2 pestilence
+2 criticism
+2 utility maximization
+2 Trade liberalization
+2 marginal tax rates
+2 Besides
+2 Robert Nozick
+2 Deregulation
+2 Tyler Cowen
+2 capabilities approach
+2 western democracies
+2 transparency
+2 strangers
+2 strong safety
+2 IMF
+2 methodology
+2 LSE
+2 Simon Kuznets
+2 Uruguay
+2 coincide
+2 Anthony Shorrocks
+2 emerging markets
+2 Public education
+2 Socialists
+2 fortunes
+2 asserts
+2 Historian
+2 Thierry
+2 Global Competitiveness Index
+2 patents
+2 consumer goods
+2 Harvard Business School
+2 mutually
+2 Wilkinson
+2 gender pay gap
+2 Income tax
+2 Social cohesion
+2 universe
+2 The United Nations Development Programme
+2 concentrates
+2 400 richest Americans
+2 macroeconomic policies
+2 incoherent
+2 Warren Buffett
+2 emergence
+2 minted
+2 recognized
+2 Alberto Alesina
+2 Robin Hood tax
+2 July 22
+2 Michael Norton
+2 Dan Ariely
+2 private ownership
+2 Civic
+2 intuitive
+2 government intervention
+2 Rafael Di Tella
+2 Crime
+2 financial speculation
+2 June 27
+2 measurable
+2 General
+2 Forbes richest 400 Americans
+2 homicides
+2 political left
+2 Information Technology
+2 living wages
+2 introducing
+2 Political Economy
+2 develops
+2 fostering
+2 market economies
+2 Patent Cooperation Treaty
+2 reset
+2 social connectedness
+2 stone age
+2 social model
+2 Debt
+2 centrist
+2 Joseph Stiglitz
+2 free market capitalism
+2 acquires
+2 Los Angeles Times
+2 Erik Brynjolfsson
+2 gilded age
+2 sympathy
+2 informal sector
+2 South Dakota
+2 condensed
+2 Fair Trade
+2 David Skaggs
+2 BlackRock
+2 certifies
+2 Certified
+2 Delaware
+2 Fink
+2 Inc
+2 Serenity
+2 joy
+2 loved
+2 Danone
+2 roommates
+2 belly
+2 engaged
+2 extraction
+2 Maybe
+2 social good
+2 invent
+2 LEED
+2 shareholder primacy
+2 Farm
+2 environmentally sustainable
+2 amend
+2 public companies
+2 supply chain
+2 multinational companies
+2 Wall
+2 chief executives
+2 regenerative
+2 revise
+2 Eileen Fisher
+2 Street
+2 beast
+2 coalition
+2 buildings
+2 mentors
+2 bullhorns
+2 stakeholders
+2 mindful
+2 Patagonia
+2 Pine Ridge Reservation
+2 Profiles
+2 Sundays
+2 incorporated
+2 Grew
+2 Brave Heart
+2 corporate accountability
+2 Fortune 500
+2 global capital
+2 Congressman
+2 elder
+2 performances
+2 spiritual
+2 hinge
+2 outsourcing
+2 creative
+2 inspired
+2 Art
+2 Who
+2 Protect
+2 sports
+2 interned
+2 dedicated
+2 Basil
+2 profession
+2 planet
+2 policymaker
+2 New laws
+2 profit maximization
+2 Benefit
+2 Stanford University
+2 Latin
+2 cry
+2 Amanda
+2 commodities
+2 Wednesday
+2 digits
+2 The International Monetary Fund
+2 Getulio Vargas Foundation
+2 Marcelo
+2 Least
+2 RIO DE JANEIRO
+2 columnists
+2 Hits
+2 Interpreter
+2 boom
+2 devastating
+2 Brazilians
+2 annually
+2 steam
+2 commentary
+2 Max Fisher
+2 fixing
+2 provocative
+2 Religion
+2 celebrated
+2 columnist
+2 lobby
+2 Diagnosis
+2 spoils
+2 premature
+2 online store
+2 donate
+2 circle
+2 absolution
+2 whodunit
+2 victory
+2 rhetoric
+2 warning labels
+2 flatten
+2 hero
+2 portal
+2 retrieval
+2 decentralize
+2 The speech
+2 winners
+2 The Elite
+2 intentional
+2 good question
+2 folks
+2 happy
+2 racial resentment
+2 oxygen
+2 empower
+2 comment
+2 Charade
+2 philanthropists
+2 brush
+2 monopoly
+2 skip
+2 corner
+2 corporate tax
+2 basically
+2 correspondent
+2 social entrepreneurs
+2 real change
+2 sages
+2 invites
+2 discourse
+2 Winners Take All
+2 anxious
+2 stasis
+2 global elite
+2 resistant
+2 Instagram
+2 journalists
+2 exploiting
+2 infected
+2 election result
+2 repurposing
+2 searing
+2 Debatable
+2 protective
+2 patriarchy
+2 rising tide
+2 platform
+2 minimize
+2 Later
+2 manufactures
+2 operates
+2 Aspen Institute
+2 Changing
+2 prescription
+2 pokes
+2 Forum
+2 claiming
+2 Was
+2 minds
+2 railroads
+2 sacrifices
+2 white supremacy
+2 glow
+2 foundations
+2 clarity
+2 manipulating
+2 donating
+2 drill bits
+2 hype
+2 salvation
+2 globalisation
+2 episodes
+2 Middle
+2 fits
+2 modestly
+2 Belgium
+2 hazardous
+2 Knowing
+2 Thatcher
+2 Hungary
+2 extents
+2 universal basic income
+2 dysfunction
+2 sight
+2 combines
+2 livelihoods
+2 contained
+2 solidarity
+2 hurt
+2 Yes
+2 Different
+2 manufacturing
+2 insecurity
+2 constituency
+2 militant
+2 Join
+2 Millions
+2 Freelancers Union
+2 mobilize
+2 critical mass
+2 Lyft
+2 endgame
+2 disability benefits
+2 legal representation
+2 swell
+2 Wage
+2 spirit
+2 bargain collectively
+2 Myers
+2 intermediate
+2 pinnacle
+2 theater
+2 Collective bargaining
+2 Snyder
+2 activism
+2 straightjacket
+2 Advocating
+2 Protection
+2 advocacy groups
+2 stakes
+2 labor movement
+2 labor union
+2 suit
+2 boss
+2 safeguard
+2 insurance company
+2 passage
+2 correlate
+2 Uber
+2 attractive
+2 domestic workers
+2 Writers Guild
+2 clue
+2 signing
+2 dynamic
+2 freelancers
+2 Connecticut
+2 screenwriters
+2 expand
+2 exploitation
+2 fixation
+2 unionized
+2 Doing
+2 defend
+2 unionizing
+2 tactics
+2 good news
+2 Seattle
+2 celebrate
+2 June 2009
+2 inflation rate
+2 bears
+2 coasts
+2 coin
+2 gauge
+2 soup kitchen
+2 Flat
+2 delaying
+2 Standard
+2 summarize
+2 eating
+2 New Jersey
+2 prosperity
+2 dozens
+2 deceptive
+2 depressions
+2 fertility rates
+2 inherent
+2 The majority
+2 clarify
+2 actress
+2 Dealing
+2 la réunion
+2 replicating
+2 marginalise
+2 scenario
+2 homogeneous
+2 nirvana
+2 algorithmic
+2 elle
+2 smart homes
+2 darker
+2 posed
+2 Does
+2 probabilities
+2 image recognition
+2 mass
+2 adapted
+2 autonomous
+2 Smartphones
+2 detail
+2 reproduced
+2 subset
+2 tall
+2 languages
+2 Artificial intelligence
+2 masculine pronouns
+2 predictive policing
+2 gorillas
+2 smart cities
+2 apocalypse
+2 neural networks
+2 replicated
+2 Nouns
+2 enumerated
+2 optimistic
+2 social change
+2 pairings
+2 Artificial Intelligence
+2 idyll
+2 utopian
+2 approaches
+2 neglected
+2 efficiently
+2 digital ecosystem
+2 Surely
+2 adjectives
+2 devoted
+2 human extinction
+2 default
+2 Ethical
+2 damaging
+2 predictions
+2 translations
+2 disguises
+2 Franki
+2 advised
+2 heading
+2 denotes
+2 black people
+2 developers
+2 seconds
+2 plural
+2 multidimensional
+2 tertiary
+2 nutritional status
+2 evolved
+2 mental health services
+2 Combined
+2 government departments
+2 Scheme
+2 Ensure
+2 realisation
+2 hostile
+2 Dynamics
+2 Social Development
+2 traumatic events
+2 National Income
+2 thrive
+2 advent
+2 repeating
+2 R420
+2 managed
+2 employment support
+2 persist
+2 Student
+2 holistic
+2 Child support
+2 Basic Education
+2 sustained
+2 Support
+2 Interventions
+2 instrument
+2 undercuts
+2 postsecondary education
+2 21 years
+2 early childhood development
+2 thread
+2 arrangements
+2 realistic
+2 trace
+2 Target
+2 young adulthood
+2 Invest
+2 Partnerships
+2 subsequent
+2 correlations
+2 boomed
+2 greenhouse gas
+2 Wyndham
+2 knowledge economy
+2 traffic congestion
+2 Inner
+2 intent
+2 locally
+2 capital stock
+2 Authority
+2 liveability
+2 trips
+2 CBD
+2 Innovation
+2 Planning
+2 commuting
+2 active transport
+2 emissions
+2 Outer
+2 law enforcement
+2 family violence
+2 livability
+2 Hectares
+2 gross regional product
+2 walking
+2 Greater Vancouver
+2 local government areas
+2 engines
+2 sustainably
+2 Melton
+2 Victorians
+2 unemployment rates
+2 urban sprawl
+2 ecosystem services
+2 compact city
+2 economic activity
+2 child development
+2 neighbourhoods
+2 freshwater
+2 Clusters
+2 Australian
+2 Cardinia
+2 commutes
+2 Whittlesea
+2 public open space
+2 catering
+2 Proportion
+2 remediation
+2 Casey
+2 Hume
+2 entail
+2 victimized
+2 standard deduction
+2 Tax Reform
+2 paint
+2 fails
+2 gays
+2 bigger picture
+2 tax cuts
+2 Harnik
+2 Laws
+2 litigation
+2 national origin
+2 dependents
+2 Traditionally
+2 DNA
+2 Our Better Selves
+2 personal injury
+2 distorted
+2 True
+2 1040s
+2 federal taxes
+2 car accidents
+2 business expenses
+2 allegedly
+2 penalize
+2 settlements
+2 tax code
+2 nod
+2 income tax returns
+2 stepped
+2 Politicians
+2 taxable income
+2 jointly
+2 Courts
+2 marriage penalty
+2 Equal Employment Opportunity
+2 misses
+2 Selfish
+2 Mirrors
+2 Modern
+2 doom
+2 The formula
+2 inherited wealth
+2 Decomposition
+2 H2
+2 grey
+2 living standard
+2 Pareto principle
+2 hands
+2 Comparison
+2 Taking
+2 Neither
+2 Subgroup
+2 US Census
+2 straight lines
+2 tractable
+2 Barro
+2 WT
+2 wy
+2 Amartya Sen
+2 Adam Smith
+2 group E
+2 lined
+2 US 8
+2 income mobility
+2 The reason
+2 judged
+2 decomposed
+2 Growth
+2 acquired
+2 variance
+2 explosive
+2 columns
+2 risk aversion
+2 cumulative
+2 T1
+2 arithmetic average
+2 Chilean
+2 MIT press
+2 Human Development
+2 computing
+2 fictional character
+2 homogeneity
+2 John Galt
+2 middle classes
+2 render
+2 maps
+2 stochastic process
+2 scalar
+2 quantiles
+2 economic theory
+2 factor income
+2 Blinder
+2 symmetry
+2 T4
+2 Wikipedia
+2 holdings
+2 imputed rent
+2 imported
+2 moderation
+2 extremes
+2 economic policy
+2 weighted average
+2 gifts
+2 subsystems
+2 lots
+2 Lorenz curve
+2 inefficient
+2 H4
+2 wealth condensation
+2 discrete
+2 permutation
+2 retard
+2 Function
+2 poor person
+2 positive real number
+2 counterpart
+2 intuitively
+2 Properties
+2 unity
+2 outliers
+2 nonqualified deferred compensation
+2 infinity
+2 diagrams
+2 Anonymity
+2 The higher
+2 separately
+2 construction
+2 anonymous
+2 confusion
+2 alternatives
+2 WH
+2 subgroup
+2 variants
+2 H1
+2 logarithmic
+2 restricted
+2 Very
+2 Northern European
+2 invalid
+2 urge
+2 G3
+2 Spreadsheet
+2 T3
+2 Transfer principle
+2 Bounded
+2 computations
+2 7 times
+2 G4
+2 Ricardo
+2 Julius
+2 weighting function
+2 Distinguish
+2 G1
+2 Population
+2 nominal income
+2 market imperfections
+2 explicit function
+2 attached
+2 absolute scale
+2 sorting
+2 Surveys
+2 safety net
+2 The red
+2 group A
+2 capital gains
+2 disjoint
+2 Atkinson
+2 economic agent
+2 Internal Revenue
+2 copy
+2 segmentation
+2 interfaces
+2 proportional
+2 transferred
+2 egalitarianism
+2 Classical economists
+2 pooling
+2 square root
+2 interpret
+2 positively skewed
+2 WG
+2 G2
+2 bounded
+2 ordered
+2 Panel
+2 Applied
+2 commented
+2 Atlas Shrugged
+2 indexes
+2 questionnaires
+2 social programs
+2 Details
+2 resource allocation
+2 median household income
+2 real number
+2 T2
+2 grain
+2 rents
+2 social scientists
+2 Giovanni Andrea Cornia
+2 precise
+2 correlates
+2 Deviation
+2 slope
+2 similarity
+2 ascending order
+2 panel
+2 redundancies
+2 preserving
+2 planned economy
+2 Measures
+2 swapping
+2 subsets
+2 Court
+2 pensioners
+2 empirically
+2 subsistence farmer
+2 H3
+2 social entropy
+2 nonlinear
+2 multiplied
+2 open systems
+2 Scale
+2 employee stock options
+2 summary statistics
+2 Compensation
+2 pays
+2 chef
+2 Doing Business
+2 Pete Buttigieg
+2 Elizabeth Warren
+2 SEN
+2 Sen
+2 dismissal
+2 The Cost
+2 Thanks
+2 Losses
+2 baby boomers
+2 Presidential Election
+2 millennium
+2 ticked
+2 Middle Class
+2 IRS
+2 BERNIE SANDERS
+2 Slam
+2 Silence
+2 Tuesday
+2 national health care
+2 Cartoons
+2 marginally
+2 presidential debate
+2 Amid
+2 climbed
+2 hammered
+2 accumulate
+2 Tom Steyer
+2 Democratic
+2 Sanders
+2 unemployment insurance
+2 Courtesy
+2 matches
+2 farming
+2 Simon Johnson
+2 absolute convergence
+2 Ontario
+2 Pareto distribution
+2 colonial
+2 Inside
+2 contaminating
+2 donations
+2 neutral
+2 centuries
+2 territories
+2 registers
+2 The contrast
+2 Geography
+2 radical
+2 Link
+2 log scale
+2 Six
+2 Angola
+2 food shortages
+2 liberalization
+2 meat
+2 Structure
+2 Sanitation
+2 Branko Milanovic
+2 imperialism
+2 European colonies
+2 industrialized countries
+2 contracts
+2 Political scientist
+2 agriculture
+2 Views
+2 Family Planning
+2 industrialised countries
+2 volunteers
+2 reformist
+2 eastern
+2 consuming
+2 liberal reform
+2 encapsulates
+2 Powerful
+2 rich people
+2 World Food Programme
+2 hurricanes
+2 Path dependence
+2 colonized
+2 disk
+2 Earthquakes
+2 Economists
+2 Classical liberals
+2 big impact
+2 Going
+2 endogenously
+2 exchange rates
+2 registering
+2 positive feedback
+2 droughts
+2 fur
+2 Population Growth
+2 proper education
+2 lognormal
+2 Think Small
+2 replace
+2 competitive markets
+2 El Salvador
+2 fertility rate
+2 feeling good
+2 economic activities
+2 travelled
+2 Instability
+2 Map
+2 Gross domestic product
+2 domain
+2 competing
+2 Aspects
+2 careful
+2 eggs
+2 The final
+2 Quah
+2 UN Human Development Index
+2 supplies
+2 powerless
+2 Natural Disasters
+2 feathers
+2 European colonization
+2 Human Development Report
+2 Oxfam International
+2 dominates
+2 Improve
+2 percentage points
+2 Hunger
+2 Robinson
+2 Industrial revolution
+2 corporations
+2 sanitation
+2 economic globalization
+2 disasters
+2 milk
+2 unimodal
+2 induce
+2 twin peaks
+2 Decline
+2 social forces
+2 cheese
+2 Jared Diamond
+2 Guatemala
+2 Potential
+2 armed conflicts
+2 roads
+2 fundraisers
+2 Europeans
+2 regional group
+2 authoritarian regimes
+2 grounds
+2 natural experiment
+2 Environmental factors
+2 settler
+2 crops
+2 persisted
+2 orange
+2 The United Kingdom
+2 Live stock
+2 total assets
+2 instrumenting
+2 breeds
+2 economic agents
+2 unlimited
+2 live stock
+2 volume
+2 environmental assets
+2 collectively
+2 Pay attention
+2 Percentage
+2 bacterial vaginosis
+2 Harlem
+2 cohort
+2 easy access
+2 NHS reforms
+2 minority stress
+2 WDR
+2 bone fractures
+2 substances
+2 toxic waste
+2 pathological
+2 carcinogenic
+2 psychosocial
+2 cycle
+2 Plans
+2 pressure ulcers
+2 South America
+2 urine
+2 Michael Marmot
+2 civil servants
+2 aborted
+2 sexual activity
+2 Manual
+2 health care delivery
+2 medical schools
+2 epidemiological study
+2 financial capital
+2 pap
+2 Fund
+2 immunizations
+2 environmental hazards
+2 mistrust
+2 GPs
+2 illustrating
+2 antenatal
+2 Homosexual
+2 dilapidated
+2 domestic abuse
+2 World Development Report
+2 ambulatory
+2 Chile
+2 Historically
+2 Critics
+2 dialysis
+2 vertical equity
+2 susceptibility
+2 clustering
+2 indigenous groups
+2 STI
+2 radon
+2 prescription medicines
+2 preventive care
+2 presenting
+2 GEF
+2 Aborigines
+2 European commission
+2 mental health disorder
+2 herpes simplex virus 2
+2 harmonious
+2 identifies
+2 mitigation
+2 stressors
+2 prolonged labor
+2 citing
+2 replications
+2 highlight
+2 encounters
+2 Seventeen
+2 inclusion
+2 nonexistent
+2 maternal death
+2 population study
+2 Kuwait
+2 Scarcity
+2 implicit
+2 asbestos
+2 persuasive
+2 Western China
+2 national healthcare
+2 Disorders
+2 victimisation
+2 religious beliefs
+2 In South Africa
+2 systematic review
+2 preventative
+2 Being
+2 waiting room
+2 homophobia
+2 speakers
+2 normal
+2 NIH
+2 echelons
+2 processed
+2 legacy
+2 chronic conditions
+2 Declaration
+2 sex characteristics
+2 cognizant
+2 lesbians
+2 occupational hazards
+2 schedule
+2 authorities
+2 postpone
+2 accidents
+2 adverse events
+2 urinary tract infections
+2 gender identity disorder
+2 Legal
+2 attends
+2 cultural competence
+2 Fair
+2 sterilization
+2 herpes
+2 unique
+2 United States federal law
+2 Public Health England
+2 Monitoring
+2 breast cancer
+2 EuroHealthNet
+2 Doctors
+2 longevity
+2 gradient
+2 healthcare reform
+2 Sierra Leone
+2 Middle East
+2 hindered
+2 inflexibility
+2 continuously
+2 replaced
+2 physical exercise
+2 legal obligation
+2 hospitalized
+2 modify
+2 US history
+2 modifies
+2 Problems
+2 Human Services
+2 clinical trials
+2 anatomical
+2 Quality
+2 universal service
+2 preventive health services
+2 Sexuality
+2 primary care
+2 villages
+2 plans
+2 diverges
+2 In Europe
+2 heterosexuality
+2 vaccine
+2 tuberculosis
+2 arises
+2 African continent
+2 frequency
+2 infanticide
+2 shortcomings
+2 helpful
+2 preventive services
+2 unconsciously
+2 examinations
+2 illustrate
+2 Slavery
+2 ethnic discrimination
+2 PTSD
+2 grey literature
+2 American Medical Association
+2 degradation
+2 Unconditional
+2 heterosexist
+2 homophobic
+2 Jamaica
+2 Jane
+2 Namibia
+2 Whitehall
+2 Healthcare reform
+2 Portuguese
+2 hygiene
+2 symptoms
+2 linguistic
+2 patient satisfaction
+2 suicidality
+2 February 2010
+2 Automated
+2 principle
+2 discordant
+2 Hispanic Americans
+2 assessing
+2 sliding
+2 hospitalization
+2 pivotal
+2 receptionist
+2 social services
+2 developed country
+2 Equity
+2 food chains
+2 racial stereotypes
+2 prevalence
+2 pilot study
+2 traveling
+2 Statistical
+2 gynecologic
+2 designated
+2 occult
+2 diet
+2 GI
+2 Member States
+2 white Americans
+2 gay
+2 Mothers
+2 GP surgery
+2 recreational
+2 systematic literature review
+2 Italian
+2 physiological stress
+2 The level
+2 exceptionally
+2 chemical
+2 slight
+2 assisted
+2 Reasons
+2 social norms
+2 legal recognition
+2 National Institute
+2 scholarly
+2 autoimmune
+2 consulted
+2 fecal
+2 SO
+2 LGBTI
+2 environmental factor
+2 health care financing
+2 judgmental
+2 opening
+2 processing
+2 vending machines
+2 chronic disease
+2 heterogeneity
+2 quango
+2 grocery stores
+2 The Institute
+2 noise pollution
+2 allocations
+2 Tanzanian
+2 gender dysphoria
+2 diagnostic procedures
+2 bond
+2 kidney transplant
+2 LaLonde report
+2 early childhood
+2 Western medicine
+2 communal
+2 Zambia
+2 Hispanics
+2 homosexuals
+2 maximizing
+2 neonatal care
+2 injection
+2 frameworks
+2 pain medication
+2 verbal abuse
+2 indicative
+2 informed
+2 Racial segregation
+2 Diagnostic
+2 Rates
+2 vaginal
+2 chronic stress
+2 conduit
+2 Maintenance
+2 tailored
+2 translators
+2 assigned gender
+2 prescription drugs
+2 reducing poverty
+2 sibling
+2 Health literacy
+2 intercourse
+2 epidemiologist
+2 epidemiological studies
+2 disruption
+2 muscle strength
+2 screened
+2 illnesses
+2 homelessness
+2 long distances
+2 reacting
+2 Minority groups
+2 concordant
+2 lung disease
+2 fixed
+2 housing markets
+2 Linguistic
+2 cultural practice
+2 knowledge transfer
+2 In South America
+2 Housing
+2 cardiovascular diseases
+2 Lives
+2 reactions
+2 contextual
+2 mounting
+2 diarrheal diseases
+2 version
+2 stigmatization
+2 pulled
+2 Mdantsane
+2 congressional
+2 activated
+2 Financial
+2 medical literature
+2 cancers
+2 cancer care
+2 deliberate practice
+2 distributing
+2 North Carolina
+2 migrate
+2 shun
+2 guardians
+2 hard work
+2 distrust
+2 bound
+2 IDEA
+2 OSERS
+2 day care
+2 banned
+2 valid
+2 multilateral
+2 takers
+2 cost reduction
+2 proximity
+2 child work
+2 arrive
+2 parental leave
+2 de jure
+2 objectively
+2 criticisms
+2 Gilligan
+2 anticipation
+2 aptitude
+2 migrating
+2 Item Response Theory models
+2 Statistic
+2 Plessy
+2 Ivy League
+2 Caucasians
+2 descent
+2 grading
+2 private school
+2 delinquency
+2 slavery
+2 reliable sources
+2 missionary
+2 gratefulness
+2 Adolescent
+2 education systems
+2 Parrish
+2 Bailey
+2 city regions
+2 racial prejudices
+2 Funding
+2 defecate
+2 graduate students
+2 racial segregation
+2 task force
+2 Calculus
+2 emotionally
+2 Dropout
+2 educational toys
+2 coordinating
+2 academically
+2 competency
+2 Together
+2 tutoring
+2 libraries
+2 removal
+2 freshman year
+2 Institutes
+2 cognitive development
+2 inhibiting
+2 outnumbered
+2 EFA
+2 Nothing
+2 Grace
+2 refine
+2 educational policy
+2 single parent
+2 individually
+2 standard score
+2 aids
+2 cultural capital
+2 busses
+2 Swedish government
+2 The Immigrant
+2 inspirations
+2 Handicapped
+2 Physics
+2 mentally retarded
+2 Ferguson
+2 attacked
+2 gross enrollment rate
+2 International Association
+2 public schools
+2 finite
+2 Children Act
+2 content
+2 Meenal
+2 offset
+2 Togo
+2 continuance
+2 rags
+2 abundant
+2 citations
+2 education gap
+2 federal government
+2 legal separation
+2 proof
+2 Mathematics
+2 formats
+2 Majority
+2 resolution
+2 April
+2 geographical isolation
+2 public assistance
+2 wrongs
+2 free African Americans
+2 sociologists
+2 MOOCs
+2 Puerto Ricans
+2 reversed
+2 intellectually
+2 MLT
+2 large number
+2 massive open online courses
+2 early high school
+2 exceeded
+2 educational equity
+2 eradicate
+2 elementary schools
+2 Measuring
+2 dance
+2 socioeconomic classes
+2 suspensions
+2 race discrimination
+2 critical thinking
+2 enslaved
+2 referrals
+2 westernized
+2 Sheikh
+2 staying
+2 Urban
+2 facet
+2 unemployed
+2 graduates
+2 Prior
+2 Sudanese
+2 language barrier
+2 Trends
+2 exploit
+2 disciplined
+2 online forums
+2 Libya
+2 government agencies
+2 British birth cohort studies
+2 energy
+2 connections
+2 bombed
+2 The preparation
+2 ridicule
+2 torture
+2 emerges
+2 wealth gaps
+2 imperative
+2 mistaken
+2 achievement gap
+2 doctoral degrees
+2 July
+2 Keo
+2 Contrary
+2 kidnappings
+2 Please
+2 lens
+2 investing
+2 interconnection
+2 Middle class
+2 private sector
+2 Mendez
+2 global north
+2 mercy
+2 Much
+2 Brown University
+2 Southern States
+2 public officials
+2 Apartheid
+2 Southwest
+2 conditioned
+2 tertiary education
+2 de facto
+2 equal opportunity
+2 pretext
+2 scientifically
+2 individualistic
+2 Westminster
+2 conflates
+2 ministry
+2 computers
+2 bombings
+2 dilution
+2 American Education system
+2 transmit
+2 The American
+2 walls
+2 Algebra
+2 American born
+2 public sphere
+2 slave owners
+2 Taps
+2 debated
+2 fragile
+2 inseparable
+2 targeting
+2 vocabulary
+2 completion
+2 socialized
+2 The chances
+2 GPAs
+2 ERW
+2 bonding
+2 riches
+2 Babikr Bedri
+2 nominate
+2 grade point average
+2 Civil Rights Project
+2 time management
+2 English language
+2 distracting
+2 oppressed
+2 municipalities
+2 Progress
+2 inhabited
+2 inception
+2 Learning
+2 abducted
+2 Household income
+2 servitude
+2 accepts
+2 centralized
+2 simmering
+2 problem solving
+2 Disabilities Act
+2 Parents
+2 white culture
+2 shapes
+2 intergenerational
+2 moniker
+2 cite
+2 human resource development
+2 Education For All
+2 tide
+2 International Student
+2 separating
+2 American universities
+2 disproportionality
+2 option
+2 Swedish educational system
+2 social networks
+2 Factors
+2 desegregation
+2 systematically
+2 peer pressure
+2 total costs
+2 associate degrees
+2 jobless rate
+2 instruments
+2 phase
+2 hardship
+2 Center
+2 minority group
+2 senior year
+2 repercussions
+2 Metrics
+2 qualitative
+2 employment rate
+2 physically active
+2 federal law
+2 World Education Forum
+2 Stratification
+2 Education Act
+2 colonialism
+2 mental retardation
+2 study skills
+2 Special Education
+2 ironclad
+2 Native American
+2 stigma
+2 Omdurman
+2 Brookings Institution
+2 strictly
+2 kindergarten
+2 Universal
+2 enacted
+2 Program
+2 global south
+2 Mexican American
+2 internet culture
+2 Third World
+2 acid
+2 fathers
+2 Egypt
+2 useless
+2 entwined
+2 dresses
+2 predominant
+2 anatomic
+2 cinematography
+2 overtime
+2 assessed
+2 clotting factors
+2 reliability
+2 Married
+2 Gender differences
+2 Kenneth Clark
+2 devalued
+2 labor force participation rate
+2 social cognition
+2 recount
+2 livelihood
+2 judgments
+2 Home
+2 digital technologies
+2 Community
+2 retained
+2 discovery
+2 coordinated
+2 civil war
+2 cents
+2 MDGs
+2 housewife
+2 true friend
+2 Roles
+2 simultaneous
+2 milestones
+2 preventive
+2 matching
+2 cleaning
+2 hereditary
+2 sexually harassed
+2 Bibliography
+2 political empowerment
+2 Denzel Washington
+2 feminists
+2 antibodies
+2 medical doctors
+2 Sofia Coppola
+2 bridging
+2 sons
+2 postindustrial
+2 thrown
+2 nurturance
+2 Ceci
+2 strengths
+2 Time Magazine
+2 monster trucks
+2 conjunction
+2 reinforcement
+2 The Department
+2 political contributions
+2 users
+2 external
+2 open letter
+2 political conservatism
+2 lifetimes
+2 dexterity
+2 Inclusion
+2 Kathryn Bigelow
+2 domains
+2 structural violence
+2 fringes
+2 lung volumes
+2 MoWA
+2 factory workers
+2 Lina Wertmuller
+2 aiming
+2 Collect
+2 role models
+2 disclosure
+2 prevented
+2 membrane proteins
+2 discriminating
+2 symbolic violence
+2 sexual inequality
+2 The remaining
+2 rationalize
+2 census
+2 hashtag
+2 The Hollywood Reporter
+2 human fertilization
+2 Best Director
+2 battlefield
+2 A group
+2 domesticity
+2 conceptions
+2 West Asia
+2 The Hurt Locker
+2 abusive
+2 Stereotypes
+2 Five
+2 black dolls
+2 Downey
+2 baggage
+2 white blood cells
+2 benchmarks
+2 equal pay
+2 Intelligence
+2 Portugal
+2 AAUW
+2 Bahrain
+2 Human Resource Management
+2 scheme
+2 binary
+2 bartenders
+2 nurturing
+2 gainful employment
+2 film industry
+2 Gender equality
+2 brushed
+2 capturing
+2 homely
+2 Marginalization
+2 androgen
+2 Latvia
+2 Candidate
+2 babies
+2 Furnham
+2 chromosomes
+2 cleans
+2 sport
+2 real life
+2 social movement
+2 dictate
+2 diffuse
+2 sustenance
+2 homemaker
+2 drag
+2 Falklands War
+2 Voting
+2 species
+2 territory
+2 incidental
+2 Angelina Jolie
+2 directing
+2 waves
+2 The Nordic Countries
+2 networking
+2 attendance
+2 original score
+2 architects
+2 Stipend
+2 Education Index
+2 ovens
+2 suited
+2 Friends
+2 Lesotho
+2 business failure
+2 Occupational
+2 majors
+2 female labor participation
+2 carriers
+2 Londa
+2 birth control pill
+2 courageous
+2 mothers
+2 Higgins
+2 easy bake
+2 construction worker
+2 marriage market
+2 geographically
+2 expose
+2 gun control
+2 cultural stereotypes
+2 escaping
+2 Douglas Massey
+2 sexual assault
+2 tweet
+2 standardizing
+2 rhesus macaque
+2 mentoring
+2 directors
+2 Prenatal
+2 drivers
+2 omnipresent
+2 media advertisements
+2 speculated
+2 combatants
+2 taste
+2 similarities
+2 occupational segregation
+2 Cote
+2 environment protection
+2 ILO
+2 cope
+2 Malta
+2 top 500
+2 social interactions
+2 bootstrapping
+2 Sociologist
+2 intimate partner violence
+2 entertainment industry
+2 causal
+2 Gender pay gap
+2 political office
+2 resist
+2 Nancy
+2 Gender Equality
+2 pilots
+2 cooks
+2 validating
+2 full professors
+2 engagement
+2 real estate agents
+2 human resources
+2 Gender Equity
+2 deskilled
+2 death penalty
+2 maintains
+2 sperms
+2 The norm
+2 Developing
+2 original screenplay
+2 yield
+2 owning
+2 International Trade Union Confederation
+2 uncertainty
+2 dismantling
+2 television industry
+2 dentistry
+2 gender socialization
+2 North African
+2 adaptions
+2 diaper
+2 intergroup
+2 bridged
+2 Corinne
+2 NGOs
+2 The Division
+2 family life
+2 sex differences
+2 social discrimination
+2 sex ratio
+2 airplane
+2 social integration
+2 testosterone
+2 Lithuania
+2 scientific publications
+2 working woman
+2 covering
+2 outlier
+2 political behavior
+2 David Schwimmer
+2 plateau
+2 Overseas Development Institute
+2 Western European
+2 2013 Academy Awards
+2 case study
+2 constructive
+2 ICT4D
+2 18 hours
+2 hypothesized
+2 congenital adrenal hyperplasia
+2 Liam Neeson
+2 sex selective abortion
+2 deny
+2 integrated
+2 originate
+2 Nordic country
+2 New York Film Academy
+2 Global Gender Gap Index
+2 recognizing
+2 happier
+2 Williams
+2 Janet
+2 stereotypically
+2 messages
+2 sexual misconduct
+2 editing
+2 Best Picture
+2 Nordic Countries
+2 facial features
+2 social structures
+2 hectares
+2 electrical engineers
+2 comparatively
+2 figured
+2 professional degrees
+2 map
+2 wore
+2 Asian culture
+2 A number
+2 The New York Film Academy
+2 Hyde
+2 comprehensive school
+2 gender segregation
+2 Best Original Screenplay
+2 Jane Campion
+2 empirically grounded
+2 Indices
+2 emotional
+2 Regions
+2 Topping
+2 planning
+2 contestable
+2 insidious
+2 solved
+2 extensive
+2 detailed
+2 enact
+2 enumeration
+2 liberal democracy
+2 neglect
+2 National Register
+2 Bratton
+2 Boot
+2 depresses
+2 Polyarchy
+2 Indian
+2 2009 national elections
+2 Opposition
+2 public transportation
+2 Political participation
+2 ethnic identity
+2 differentiate
+2 Iranian
+2 political exclusion
+2 augment
+2 online communities
+2 literacy tests
+2 social reforms
+2 Electors
+2 booths
+2 Sunni
+2 political parties
+2 enables
+2 responsiveness
+2 translated
+2 Clarke
+2 The cuts
+2 Richard Horton
+2 occupational therapists
+2 Bob Kerslake
+2 allied health professionals
+2 paywall
+2 healthcare scientists
+2 financial regulator
+2 recruits
+2 bursaries
+2 chaotic
+2 Janet Davies
+2 chief executive
+2 facing
+2 shadow health secretary
+2 blamed
+2 physiotherapists
+2 trusts
+2 poor decisions
+2 NHS bodies
+2 Jonathan Ashworth
+2 quarterly
+2 patient safety
+2 NHS Improvement
+2 sick
+2 nursing degree
+2 incompetence
+2 hitting
+2 Rachel
+2 Clare Gerada
+2 Jobs
+2 disclosed
+2 rota
+1 criminal law In Canada
+1 sociopolitical
+1 nonviolent
+1 gender nonconforming
+1 antiwar
+1 economic output
+1 faith Life
+1 andor
+1 natural feature
+1 Ones
+1 dont
+1 nonverbal cues
+1 UKs
+1 US3
+1 Sainsburys
+1 women And men
+1 flatout
+1 Guardians
+1 FEB
+1 Theres
+1 grant Johnson
+1 nonreligious
+1 Johnsons
+1 USs
+1 subSaharan
+1 workers rights
+1 extrajudicial killings
+1 WJPs
+1 Gascons
+1 SubSaharan Africa
+1 subSaharan Africa
+1 livestreaming
+1 Were
+1 Ive
+1 black minority ethnic
+1 Obamas
+1 GM
+1 St Louis
+1 socalled
+1 suckers
+1 Lets
+1 OK
+1 Hos
+1 Moons
+1 Earths
+1 WiFi
+1 farmers
+1 DEA
+1 Dont
+1 high green
+1 category A
+1 manmade
+1 metaanalysis
+1 Forums
+1 Funds
+1 system A
+1 mindset
+1 grade I
+1 Ring I
+1 Americas
+1 Brazils
+1 institutes
+1 childs play
+1 Well
+1 Yorks
+1 labors
+1 US1
+1 downsampling
+1 health education
+1 hightech
+1 A125
+1 modern marriages
+1 40s
+1 Mr Smith
+1 xIx
+1 TT
+1 Bobs
+1 HH
+1 Alices
+1 Rands
+1 subregions
+1 Ix
+1 water transportation
+1 GDP PPP
+1 underdeveloped
+1 counterarguments
+1 longrun
+1 posttraumatic stress disorder
+1 misgendered
+1 nonbinary
+1 US survey
+1 AE
+1 encompassing
+1 nonindigenous
+1 US 65
+1 DSM5
+1 health It
+1 SubSaharan African
+1 Fortyfive
+1 US 92
+1 bachelors
+1 underdevelopment
+1 Suburban
+1 K12
+1 policy makers
+1 3K
+1 Harvards
+1 Education In New York City
+1 childs
+1 homelife
+1 leftwing
+1 microcredit
+1 subSaharan African
+1 MPs
+1 technology One
+1 crosscutting
+1 employment Support
+1 Mens
+1 Indias
+1 lines A

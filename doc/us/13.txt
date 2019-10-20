@@ -1,0 +1,80 @@
+
+The trauma trap: what's causing inequalities in emergency care?
+As US studies reveal worrying disparities in trauma treatment based on patient ethnicity, one surgeon urges more research into inequalities in UK emergency care
+Ten years ago, when Dr Adil Haider, a trauma surgeon at Harvard Medical School, began investigating disparities in emergency centre outcomes based on information recorded in the US National Trauma Data Bank, he discovered a striking trend.
+
+In the US, trauma is the number one cause of death for people under 47, and Haider had identified huge differences in patient survival rates based entirely on race. Compared to white patients with injuries of similar severity, black and Hispanic patients were found to have 20% and 50% greater likelihoods of death respectively.
+
+
+Huge health gap revealed between UK’s rich and poor
+ Read more
+While earlier studies had already noted racial disparities in cancer treatment, observing this in the world of trauma caused a particular stir. “People have always had this iconic image of emergency departments as the great equalisers,” Haider says. “There’s a perception that no matter who you are, if you have a trauma injury, you’re going to get picked up and receive the same level of care.”
+
+Haider’s findings were based on data from 429,751 patients and 700 hospitals, yet they attracted outrage in certain quarters. “I find the publication of this study extremely troublesome,” one surgeon wrote in a letter. “It is an insult to those who provide trauma care.”
+
+However despite this opposition, in recent years more and more research groups across the US have identified the same trend: a much greater likelihood of death for black or ethnic minority patients compared to white patients for the same traumatic injuries.
+
+A patient receives help with paperwork in a Miami hospital.
+FacebookTwitterPinterest
+ A patient receives help with paperwork in a Miami hospital. Photograph: Joe Raedle/Getty
+There are some obvious initial explanations for these findings, one being the variety of socioeconomic factors tied in with health insurance. When Haider compared uninsured black patients to insured white patients, the black patients were 80% more likely to die.
+
+To unpick why this was the case, Haider and others in his field began to look at trauma centre rankings, which are based on scores called observed-to-expected mortality ratios. Trauma centres have developed a finely-tuned science of predicting an individual’s chances of dying from a particular degree of injury, allowing them to calculate the proportion of patients who survive compared to the projections.
+
+ When Haider compared uninsured black patients to insured white patients, the black patients were 80% more likely to die
+Their studies showed that it tends to be the worst-performing trauma centres that take care of the vast majority of uninsured black and ethnic minority patients in inner-city areas. These centres are faced with a lot of highly complex, penetrative trauma cases, and because their patients typically lack insurance, they’re faced with negative financial margins and few resources with which to improve their processes.
+
+“There’s a vicious cycle which plays out,” Haider says. “First you have these struggling trauma centres which are already laden with a lot of patients without insurance, and then they get penalised because their outcomes are worse. And that makes it even more difficult for them to deliver the best care.”
+
+But while the introduction of the Affordable Care Act has improved the accessibility of insurance, and reduced the strain on some centres, there’s one crucial factor in trauma care which means the odds are still greatly stacked against black and minority patients from poorer communities: time.
+
+Trauma deserts
+In emergency medicine, time is one of the most crucial factors relating to survival. Paramedics say that the sooner a patient with a traumatic injury can be sent to a high-level centre, the greater the likelihood of preventing death. However, in the US, many of the best for-profit trauma centres have long sought to maximise their revenue streams by focusing on areas where the majority of patients have insurance.
+
+In trauma care, time is one of the most crucial factors relating to survival.
+FacebookTwitterPinterest
+ In trauma care, time is one of the most crucial factors relating to survival. Photograph: UPI/Barcroft Images
+South Florida is one such example. With a large demographic of retired, insured, white people, trauma centres can make a lot of money from treating patients with traumatic injuries following falls, resulting in an abundance of care facilities. However, Chicago’s often violent South Side, in which 93% of the population is black, has long faced a “trauma desert”, after the main University of Chicago trauma unit closed down two decades ago due to financial strain. Despite widespread protests and studies suggesting that  could have been saved if they’d received treatment quicker, there is still no level 1 trauma centre located in the area.
+
+
+Get Society Weekly: our newsletter for public service professionals
+ Read more
+In addition, Haider is convinced other factors are at play. When he compared black insured patients to white insured patients, black patients were still 20% more likely to die.
+
+“Bias from healthcare providers could also be an important factor,” he says. “There’s a perception that trauma happens to certain types of people, who deserve it because they’re from the wrong side of town, and even well-meaning, highly qualified people end up falling into that bias.”
+
+Of the one million people who have taken the  – a social psychology experiment designed by psychologists at Harvard University to detect the automatic associations between different races/genders and certain concepts which are stored subconsciously – approximately 70% showed preferences towards white people. Haider conducted similar tests on doctors, trainee surgeons and nurses using clinical vignettes. Once again, about .
+
+Do such biases affect how patients are treated? Multiple high-profile studies have suggested they do. In 2016, a paper in the journal Proceedings of the National Academy of Sciences surveying 222 white medical students and residents found that 50% of them believed black patients felt less pain than white patients, and so required less medication.
+
+However in the trauma world, there remains a lack of acceptance, both that racial disparities exist and that bias is a problem at all. A survey published in 2016 of 536 surgeons found that 50% thought there was little evidence for disparities, and of the 50% who believed they did exist, 90% felt this was down to patient factors such as lack of compliance with treatment.
+
+“People just don’t want to talk about it,” Haider says. “When it comes to their hospital, it’s a case of: ‘we treat everybody the same, no issues here.’”
+
+Global disparities
+As more and more evidence has emerged, researchers have begun to wonder about the extent to which disparities in trauma care exist in different nations. However, attempts to study racial disparities in healthcare in general have often faced considerable obstacles. In France, for instance, such research is prohibited, while in the UK, the NHS databases only contain a handful of demographic variables for each patient. While age, gender, and postcode are commonly recorded, there’s no uniform practice on recording ethnicity data, meaning the information often isn’t available for researchers looking to conduct comparisons across large numbers of patients.
+
+Some researchers believe part of the reason ethnicity data is not recorded with the same rigour in the UK as in the US, making comparisons difficult, is because it’s long been assumed in the NHS that any disparities which may exist in the US healthcare system are entirely associated with insurance. Because access to healthcare is universal in the UK, the NHS perception has been that disparities, particularly in trauma care, do not exist. However, in the past few years some studies have begun to emerge that suggest certain disparities are present in trauma care in the UK.
+
+ It’s sometimes impossible to completely remove social judgment from clinical decisions
+Dr David Metcalfe
+At the University of Oxford, Dr David Metcalfe, an orthopaedic surgeon specialising in musculoskeletal trauma, has published a  in the past two years looking at disparities in care for patients across the UK who had incurred hip fractures after falls. While these patients are considerably different to those studied by Haider - patients who had mostly suffered either penetrative traumas such as gunshot and stab wounds, or traumatic head injuries - Metcalfe’s results indicated that patients from poorer backgrounds were far less likely to receive the best operation recommended by the guidelines.
+
+But unlike in the US, there wasn’t any correlation between poorer outcomes and the worst-performing hospitals . Instead, Metcalfe believes the factors driving these differences might be more subtle.
+
+“Patients from wealthier backgrounds may be able to advocate for themselves more effectively,” he suggests. “They’re also more likely to have three middle-class children who turn up that night to ask questions about what operation is being performed and why, whereas somebody from a different background may not have that same support network.”
+
+Metcalfe believes that implicit bias may play a role in such decision-making. “In the emergency department, a good proportion of the patients we see are homeless or struggling with their social circumstances,” he says. “Obviously that background isn’t reflected by the staff they’re being treated by. As such, because surgical decision-making is very subjective, it’s sometimes impossible to completely remove social judgment from clinical decisions. When you’re looking at a patient who’s malnourished, compared to another who’s sat in a chair in their own clothes, this can lead to a very different decision on whether they’ll tolerate a particular operation.”
+
+However, other surgeons say that while it’s accepted there are a number of cognitive biases which can interfere with clinical decision-making, this is just one component of many factors which are likely to lead to worse outcomes in patients from poorer socioeconomic backgrounds.
+
+“The emergency room environment is a complex one where time-critical decisions must be made – often with only partial information,” says Professor Karim Brohi, a trauma surgeon at Royal London Hospital and head of the trauma sciences research team at Barts and the London School of Medicine. “So surgeons may be susceptible to certain types of bias during these times and more and more clinicians are being taught about this.
+
+
+How your blood may predict your future health
+ Read more
+“But it’s also important to remember that these patients often have poor underlying health and nutrition, are more likely to have underlying mental health problems, are less likely to re-present if there are complications. Many of these factors must be taken into account when deciding what operation to perform, and this isn’t unconscious bias. It’s simply clinical teams doing their job to match the best outcomes to their patient’s health and social circumstances, to deliver the best outcome with fewer complications.”
+
+Metcalfe believes that following the amount of data emerging in the US, it is vital for further research to be done to uncover the extent to which disparities exist across trauma care in the UK, whether in terms of race, socioeconomic status or something else.
+
+“Because the data collected by the NHS is much narrower, in many ways we’re flying blind and we’re a lot less aware of whether there are the same disparities that we see in the US,” he says. “However, while they may not be present to the same extent, I suspect if we had the ability to look for them, we would probably still find them.”
